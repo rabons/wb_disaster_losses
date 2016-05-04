@@ -1,0 +1,1978 @@
+year,"disaster type",iso," country_name",occurrence,"Total deaths",Affected,Injured,Homeless,"Total affected","Total damage"
+1900,Storm,USA,"United States of America (the)",1,6000,,,,,30000
+1902,Storm,MMR,Myanmar,1,600,,,,,
+1903,Storm,JAM,Jamaica,1,65,,,,,
+1903,Storm,USA,"United States of America (the)",1,98,,,,,
+1904,Storm,BGD,Bangladesh,1,,,,,,
+1905,Storm,PHL,"Philippines (the)",1,240,,,,,
+1906,Storm,HKG,"Hong Kong",1,10000,,,,,20000
+1906,Storm,USA,"United States of America (the)",2,298,,,,,
+1909,Storm,BGD,Bangladesh,2,172,,,,,
+1909,Storm,HTI,Haiti,1,150,,,,,
+1909,Storm,USA,"United States of America (the)",2,391,,,,,
+1910,Storm,USA,"United States of America (the)",1,30,,,,,
+1911,Storm,BGD,Bangladesh,1,,,,,,
+1911,Storm,TWN,"Taiwan (Province of China)",1,1000,,,,,20000
+1912,Storm,CAN,Canada,1,28,,200,2500,2700,5000
+1912,Storm,CHN,China,1,50000,,,,,
+1912,Storm,JAM,Jamaica,1,142,,,94820,94820,
+1912,Storm,JPN,Japan,1,1000,,,,,20000
+1912,Storm,PHL,"Philippines (the)",1,,,,,,10000
+1913,Storm,USA,"United States of America (the)",1,732,,,,,200000
+1914,Storm,TKL,Tokelau,1,,,,,,
+1915,Storm,HTI,Haiti,1,1600,,,,,
+1915,Storm,USA,"United States of America (the)",1,525,,,,,60000
+1916,Storm,IND,India,1,300,,,,,
+1917,Storm,JAM,Jamaica,1,57,,,,,
+1917,Storm,JPN,Japan,1,4000,,,,,50000
+1918,Storm,USA,"United States of America (the)",1,34,,,,,
+1919,Storm,BGD,Bangladesh,1,,,,,,
+1919,Storm,USA,"United States of America (the)",1,500,,,,,25000
+1920,Storm,USA,"United States of America (the)",1,224,,,,,
+1922,Storm,BGD,Bangladesh,1,,,,,,
+1922,Storm,CHN,China,1,100000,,,,,
+1923,Storm,BGD,Bangladesh,1,6,,,25000,25000,
+1923,Storm,HKG,"Hong Kong",1,100,,,,,
+1923,Storm,JAM,Jamaica,1,4,,,1300,1300,
+1923,Storm,JPN,Japan,1,3000,,,,,10000
+1923,Storm,MMR,Myanmar,1,6,,,,,
+1923,Storm,SUN,"Soviet Union",1,23,,,,,
+1924,Storm,IND,India,1,1242,1000000,,,1000000,
+1924,Storm,TWN,"Taiwan (Province of China)",1,1000,,,,,
+1925,Storm,IND,India,1,80,,,,,
+1925,Storm,TKL,Tokelau,1,,,,,,
+1925,Storm,USA,"United States of America (the)",1,739,,,,,18000
+1926,Storm,BHS,"Bahamas (the)",1,,,,,,
+1926,Storm,BGD,Bangladesh,1,,,,,,
+1926,Storm,CUB,Cuba,1,600,,,,,
+1926,Storm,MMR,Myanmar,1,2700,,,40000,40000,
+1926,Storm,PAK,Pakistan,1,,,,,,
+1926,Storm,USA,"United States of America (the)",2,268,,,,,73000
+1927,Storm,CHN,China,1,5000,,,,,
+1927,Storm,IND,India,2,685,40000,10,,40010,
+1927,Storm,USA,"United States of America (the)",1,87,,,,,22000
+1928,Storm,GLP,Guadeloupe,1,2000,,,,,
+1928,Storm,MSR,Montserrat,1,,,,,,
+1928,Storm,POL,Poland,1,82,,,,,
+1928,Storm,PRI,"Puerto Rico",1,300,,,,,50000
+1928,Storm,ROU,Romania,1,6,,,,,
+1928,Storm,KNA,"Saint Kitts and Nevis",1,,,,,,
+1928,Storm,USA,"United States of America (the)",1,1836,,,,,25000
+1929,Storm,BHS,"Bahamas (the)",1,,,,,,
+1929,Storm,DFR,"Germany Fed Rep",1,,,,,,55000
+1930,Storm,BEL,Belgium,1,60,,,,,
+1930,Storm,DMA,Dominica,1,2000,,,,,
+1930,Storm,DOM,"Dominican Republic (the)",1,2000,6000,6000,,12000,40000
+1930,Storm,GRC,Greece,1,22,,,,,
+1931,Storm,BLZ,Belize,1,1500,,,,,7500
+1931,Storm,FJI,Fiji,1,200,,,,,
+1931,Storm,HND,Honduras,1,1500,,,,,
+1931,Storm,PHL,"Philippines (the)",1,,,,,,
+1932,Storm,CUB,Cuba,1,2500,,,,,
+1932,Storm,PHL,"Philippines (the)",1,147,,,2500,2500,
+1932,Storm,PRI,"Puerto Rico",1,225,,,,,30000
+1932,Storm,USA,"United States of America (the)",2,372,,,,,
+1933,Storm,JAM,Jamaica,1,10,,,,,
+1933,Storm,TTO,"Trinidad and Tobago",1,13,,,,,3000
+1933,Storm,USA,"United States of America (the)",1,40,,,,,
+1934,Storm,SLV,"El Salvador",1,2000,,,,,
+1934,Storm,JPN,Japan,1,3006,,,,,50000
+1934,Storm,PHL,"Philippines (the)",2,85,,,,,
+1935,Storm,BHS,"Bahamas (the)",1,14,,,,,
+1935,Storm,CUB,Cuba,1,35,,500,,500,
+1935,Storm,HTI,Haiti,1,2150,,,,,
+1935,Storm,IND,India,2,60100,,,,,
+1935,Storm,JAM,Jamaica,1,,,,,,2000
+1935,Storm,USA,"United States of America (the)",1,408,,,,,6000
+1936,Storm,IND,India,1,233,,,,,
+1936,Storm,KOR,"Korea (the Republic of)",1,1104,,,,,
+1936,Storm,MMR,Myanmar,1,1000,,,150000,150000,
+1936,Storm,PHL,"Philippines (the)",1,517,,,,,
+1936,Storm,USA,"United States of America (the)",1,455,,,,,21000
+1937,Storm,BGD,Bangladesh,1,,,,,,
+1937,Storm,HKG,"Hong Kong",1,11000,,,,,
+1937,Storm,PHL,"Philippines (the)",1,231,,,,,
+1938,Storm,PHL,"Philippines (the)",1,305,,,,,
+1938,Storm,USA,"United States of America (the)",1,600,,,,,306000
+1939,Storm,NCL,"New Caledonia",1,3,,,,,
+1939,Storm,PAK,Pakistan,1,,,,,,
+1940,Storm,PHL,"Philippines (the)",1,73,,,,,
+1940,Storm,USA,"United States of America (the)",1,50,,,,,
+1940,Storm,VUT,Vanuatu,1,,,,,,
+1941,Storm,BGD,Bangladesh,1,5000,,,,,
+1941,Storm,FJI,Fiji,1,6,,,,,
+1942,Storm,BGD,Bangladesh,1,61000,,,,,
+1942,Storm,COK,"Cook Islands (the)",1,,,,,,
+1942,Storm,IND,India,1,40000,,,,,
+1943,Storm,COK,"Cook Islands (the)",1,,,,,,
+1943,Storm,IND,India,2,5000,30000,,,30000,
+1944,Storm,CUB,Cuba,1,,,,,,
+1944,Storm,IND,India,1,304,,,,,
+1944,Storm,JAM,Jamaica,1,32,,,2000,2000,
+1944,Storm,PAK,Pakistan,1,,,,10000,10000,
+1944,Storm,USA,"United States of America (the)",1,390,,,,,100000
+1945,Storm,BHS,"Bahamas (the)",1,22,,,,,
+1945,Storm,IND,India,1,,,,2000,2000,
+1945,Storm,JPN,Japan,2,4197,1881672,,,1881672,400000
+1945,Storm,USA,"United States of America (the)",3,196,,,,,
+1946,Storm,AZO,"Azores Islands",1,27,,,,,
+1946,Storm,CAN,Canada,1,17,,,,,500
+1946,Storm,COK,"Cook Islands (the)",1,,,,,,
+1946,Storm,PHL,"Philippines (the)",1,260,,,,,
+1946,Storm,USA,"United States of America (the)",1,33,,,,,
+1947,Storm,BGD,Bangladesh,1,500,,,,,
+1947,Storm,HKG,"Hong Kong",1,2000,,,,,
+1947,Storm,JPN,Japan,1,1930,,,,,
+1947,Storm,USA,"United States of America (the)",4,308,,,,,100000
+1948,Storm,BMU,Bermuda,1,,,,,,
+1948,Storm,CHN,China,2,1800,,,,,
+1948,Storm,CUB,Cuba,2,14,,300,,300,18000
+1948,Storm,ITA,Italy,1,80,,,,,
+1948,Storm,JPN,Japan,1,868,414153,,,414153,
+1948,Storm,NCL,"New Caledonia",1,2,,,,,
+1948,Storm,REU,RÈunion,1,165,,,,,
+1948,Storm,USA,"United States of America (the)",1,42,,,,,
+1949,Storm,BRA,Brazil,1,100,,,,,
+1949,Storm,IND,India,1,1000,,,,,
+1949,Storm,JPN,Japan,3,617,194046,,,194046,
+1949,Storm,PHL,"Philippines (the)",1,1000,,,,,
+1949,Storm,USA,"United States of America (the)",2,87,,,,,
+1950,Storm,ATG,"Antigua and Barbuda",1,2,,,,,1000
+1950,Storm,CAN,Canada,1,,,,,,
+1950,Storm,IND,India,1,90,,,,,
+1950,Storm,JPN,Japan,1,509,642117,,,642117,
+1950,Storm,USA,"United States of America (the)",3,272,,,,,100000
+1951,Storm,BGD,Bangladesh,1,200,,,,,
+1951,Storm,COM,"Comoros (the)",1,500,,,,,
+1951,Storm,JAM,Jamaica,1,154,20000,200,,20200,56000
+1951,Storm,JPN,Japan,1,943,,,,,
+1951,Storm,MEX,Mexico,1,50,,,,,
+1951,Storm,NCL,"New Caledonia",1,2,,,,,
+1951,Storm,PHL,"Philippines (the)",3,812,60000,,,60000,
+1951,Storm,TWN,"Taiwan (Province of China)",1,100,,,,,
+1951,Storm,VUT,Vanuatu,1,100,,,,,250
+1952,Storm,FJI,Fiji,1,23,,800,,800,2000
+1952,Storm,IND,India,2,750,1000000,,,1000000,
+1952,Storm,JPN,Japan,1,176,,,,,
+1952,Storm,PHL,"Philippines (the)",2,1014,,452,,452,50000
+1952,Storm,ZAF,"South Africa",1,35,,,,,
+1952,Storm,USA,"United States of America (the)",2,279,,,,,
+1953,Storm,DFR,"Germany Fed Rep",1,,,,,,25000
+1953,Storm,JPN,Japan,2,279,1000000,,,1000000,
+1953,Storm,TWN,"Taiwan (Province of China)",1,67,,,,,
+1953,Storm,USA,"United States of America (the)",6,468,,,,,52000
+1953,Storm,VNM,"Viet Nam",1,1000,,,,,
+1954,Storm,CAN,Canada,1,83,,,,,100000
+1954,Storm,HTI,Haiti,1,410,250000,,,250000,
+1954,Storm,JPN,Japan,4,2253,47049,,,47049,
+1954,Storm,ANT,"Netherlands Antilles",1,,,,,,
+1954,Storm,USA,"United States of America (the)",3,223,,,,,731000
+1955,Storm,AIA,Anguilla,1,,,,,,
+1955,Storm,BRB,Barbados,1,57,,,,,
+1955,Storm,BLZ,Belize,1,16,,,,,5000
+1955,Storm,IND,India,3,2120,,,375000,375000,
+1955,Storm,JPN,Japan,2,270,,,,,
+1955,Storm,MEX,Mexico,2,800,,,,,40000
+1955,Storm,NCL,"New Caledonia",1,1,,,,,
+1955,Storm,PHL,"Philippines (the)",2,144,,,,,
+1955,Storm,KNA,"Saint Kitts and Nevis",1,,,,,,
+1955,Storm,VCT,"Saint Vincent and the Grenadines",1,122,,,,,
+1955,Storm,USA,"United States of America (the)",4,365,,,,,832000
+1956,Storm,CHN,China,1,2000,,,,,
+1956,Storm,GLP,Guadeloupe,1,,,,,,
+1956,Storm,IND,India,1,,1000000,,,1000000,
+1956,Storm,IDN,Indonesia,1,300,,,,,
+1956,Storm,JPN,Japan,2,90,,,,,
+1956,Storm,MOZ,Mozambique,1,107,,,,,
+1956,Storm,PHL,"Philippines (the)",2,129,,,,,
+1956,Storm,SLB,"Solomon Islands",1,200,,,,,
+1956,Storm,USA,"United States of America (the)",3,232,,,,,
+1956,Storm,VNM,"Viet Nam",1,56,,,,,
+1957,Storm,SPI,"Canary Is",1,26,,,,,
+1957,Storm,HKG,"Hong Kong",1,8,,111,,111,
+1957,Storm,JPN,Japan,1,109,,,,,
+1957,Storm,KOR,"Korea (the Republic of)",1,238,,,,,
+1957,Storm,PHL,"Philippines (the)",1,89,,,,,
+1957,Storm,LKA,"Sri Lanka",1,200,250000,,,250000,
+1957,Storm,USA,"United States of America (the)",3,469,,,,,150000
+1958,Storm,BGD,Bangladesh,2,500,,,,,
+1958,Storm,FJI,Fiji,1,,,,,,
+1958,Storm,PYF,"French Polynesia",1,,,,,,
+1958,Storm,IND,India,1,,20000,,,20000,
+1958,Storm,JPN,Japan,4,1950,,,,,
+1958,Storm,TWN,"Taiwan (Province of China)",1,31,,,,,
+1958,Storm,USA,"United States of America (the)",3,139,,,,,
+1959,Storm,BRA,Brazil,1,59,,,,,
+1959,Storm,CAN,Canada,1,6,,,,,
+1959,Storm,CHN,China,2,1784,,,,,
+1959,Storm,HKG,"Hong Kong",1,43,,,,,
+1959,Storm,JPN,Japan,3,5264,1500000,,,1500000,600000
+1959,Storm,KOR,"Korea (the Republic of)",1,432,,,,,
+1959,Storm,MEX,Mexico,1,960,,,,,20000
+1959,Storm,NCL,"New Caledonia",1,1,,,,,700
+1959,Storm,NIU,Niue,1,,1600,,,1600,1500
+1959,Storm,PHL,"Philippines (the)",1,29,,,,,
+1959,Storm,TWN,"Taiwan (Province of China)",1,1046,,,,,50000
+1959,Storm,USA,"United States of America (the)",1,71,,,,,
+1959,Storm,VUT,Vanuatu,1,,,,,,
+1960,Storm,AIA,Anguilla,1,5,,250,1000,1250,35000
+1960,Storm,ATG,"Antigua and Barbuda",1,2,,,,,
+1960,Storm,BGD,Bangladesh,2,8149,200000,,,200000,
+1960,Storm,HKG,"Hong Kong",1,45,15000,127,,15127,
+1960,Storm,JPN,Japan,1,41,,,,,
+1960,Storm,MTQ,Martinique,1,,,,,,
+1960,Storm,MUS,Mauritius,1,42,,,,,
+1960,Storm,ANT,"Netherlands Antilles",1,,,,,,
+1960,Storm,NIU,Niue,1,,4000,,,4000,41
+1960,Storm,PHL,"Philippines (the)",6,631,425000,,,425000,32000
+1960,Storm,PRI,"Puerto Rico",1,,,,,,
+1960,Storm,LCA,"Saint Lucia",1,,,,,,
+1960,Storm,TWN,"Taiwan (Province of China)",1,199,,,,,
+1960,Storm,USA,"United States of America (the)",1,50,,,,,387000
+1961,Storm,BGD,Bangladesh,3,11266,,,,,11900
+1961,Storm,BLZ,Belize,1,275,,,,,60000
+1961,Storm,GRC,Greece,1,43,,,,,
+1961,Storm,HND,Honduras,1,275,,,,,
+1961,Storm,HKG,"Hong Kong",1,7,,,1171,1171,
+1961,Storm,JPN,Japan,2,296,,,,,
+1961,Storm,MEX,Mexico,1,436,,,,,
+1961,Storm,TWN,"Taiwan (Province of China)",1,106,,,,,
+1961,Storm,TON,Tonga,1,2,8000,,,8000,500
+1961,Storm,USA,"United States of America (the)",2,146,,,,,408000
+1962,Storm,CAN,Canada,1,33,,,,,
+1962,Storm,DFR,"Germany Fed Rep",1,347,,,,,600000
+1962,Storm,GUM,Guam,1,6,,,,,250000
+1962,Storm,HKG,"Hong Kong",1,183,,,,,
+1962,Storm,IND,India,1,,40000,,,40000,
+1962,Storm,PER,Peru,1,60,,,,,
+1962,Storm,PHL,"Philippines (the)",2,197,,,,,
+1962,Storm,TWN,"Taiwan (Province of China)",1,107,,,,,
+1962,Storm,THA,Thailand,1,769,,,,,19000
+1962,Storm,USA,"United States of America (the)",3,158,,,,,350000
+1963,Storm,BHS,"Bahamas (the)",1,,,,,,1500
+1963,Storm,BGD,Bangladesh,2,22079,1000000,,,1000000,50000
+1963,Storm,CUB,Cuba,1,1750,,,,,500000
+1963,Storm,DMA,Dominica,1,,,,,,2600
+1963,Storm,DOM,"Dominican Republic (the)",1,400,,,,,60000
+1963,Storm,GRD,Grenada,1,6,,,,,
+1963,Storm,HTI,Haiti,1,5000,,,,,180000
+1963,Storm,IND,India,2,312,5000000,,,5000000,
+1963,Storm,JAM,Jamaica,1,11,,,,,11525
+1963,Storm,JPN,Japan,3,133,,,,,
+1963,Storm,MTQ,Martinique,1,10,,,,,40000
+1963,Storm,MMR,Myanmar,1,,,,200,200,
+1963,Storm,PHL,"Philippines (the)",1,1,,,2000,2000,
+1963,Storm,LCA,"Saint Lucia",1,10,,,,,3465
+1963,Storm,TTO,"Trinidad and Tobago",1,24,,,,,30000
+1963,Storm,USA,"United States of America (the)",2,229,,,,,
+1964,Storm,BGD,Bangladesh,1,300,800,,,800,250
+1964,Storm,CHN,China,1,686,,,,,
+1964,Storm,CUB,Cuba,1,,,,,,
+1964,Storm,DOM,"Dominican Republic (the)",1,7,,,,,1000
+1964,Storm,GLP,Guadeloupe,1,14,10000,100,,10100,
+1964,Storm,HTI,Haiti,1,100,80000,,,80000,10000
+1964,Storm,HKG,"Hong Kong",2,70,,385,,385,
+1964,Storm,IND,India,1,500,,,,,
+1964,Storm,JPN,Japan,1,42,,,,,
+1964,Storm,KOR,"Korea (the Republic of)",1,210,43530,300,43000,86830,1000
+1964,Storm,PAK,Pakistan,1,450,400000,,,400000,4100
+1964,Storm,PAN,Panama,1,1,500,18,,518,300
+1964,Storm,PHL,"Philippines (the)",2,636,1224125,1421,,1225546,43000
+1964,Storm,WSM,Samoa,1,250,,,,,
+1964,Storm,LKA,"Sri Lanka",1,206,280000,,100000,380000,37300
+1964,Storm,TUR,Turkey,1,,12000,,,12000,2200
+1964,Storm,USA,"United States of America (the)",3,183,,,,,250000
+1964,Storm,VNM,"Viet Nam",1,7000,700000,,,700000,50000
+1965,Storm,BHS,"Bahamas (the)",1,,1200,,,1200,700
+1965,Storm,BGD,Bangladesh,3,48921,10060000,600000,5000000,15660000,57700
+1965,Storm,CHL,Chile,1,58,,,,,
+1965,Storm,FJI,Fiji,1,2,10000,,,10000,
+1965,Storm,HKG,"Hong Kong",1,5,,3,200,203,
+1965,Storm,ITA,Italy,1,37,,,,,
+1965,Storm,JPN,Japan,3,147,30000,770,,30770,
+1965,Storm,MMR,Myanmar,1,100,500000,,,500000,1000
+1965,Storm,PAK,Pakistan,1,10000,,,,,
+1965,Storm,PHL,"Philippines (the)",1,37,,,,,
+1965,Storm,TWN,"Taiwan (Province of China)",2,55,,166,,166,
+1965,Storm,USA,"United States of America (the)",2,570,,1000,,1000,1610000
+1965,Storm,WLF,"Wallis and Futuna",1,,,,,,
+1966,Storm,ASM,"American Samoa",1,90,,,,,
+1966,Storm,ATG,"Antigua and Barbuda",1,,,,,,
+1966,Storm,BHS,"Bahamas (the)",2,5,,3,,3,15500
+1966,Storm,BGD,Bangladesh,1,850,1500000,,300000,1800000,22400
+1966,Storm,BEL,Belgium,1,,,,,,
+1966,Storm,BRA,Brazil,1,36,,,,,
+1966,Storm,CAN,Canada,1,,,,,,
+1966,Storm,CUB,Cuba,1,5,156000,30,18000,174030,18000
+1966,Storm,DOM,"Dominican Republic (the)",1,74,7000,442,5500,12942,5000
+1966,Storm,GLP,Guadeloupe,1,25,10000,,,10000,70000
+1966,Storm,HTI,Haiti,1,480,67000,881,,67881,20000
+1966,Storm,HKG,"Hong Kong",1,15,,,,,
+1966,Storm,IND,India,1,18,150000,,,150000,4200
+1966,Storm,JPN,Japan,2,358,13764,121,,13885,7900
+1966,Storm,MEX,Mexico,1,14,80000,69,10000,90069,24000
+1966,Storm,PHL,"Philippines (the)",1,18,196000,,90000,286000,1000
+1966,Storm,WSM,Samoa,1,10,95000,,,95000,600
+1966,Storm,SLB,"Solomon Islands",1,3,1000,,,1000,
+1966,Storm,TWN,"Taiwan (Province of China)",1,36,5000,21,,5021,17322
+1966,Storm,TGO,Togo,1,,,15,,15,200
+1966,Storm,TKL,Tokelau,1,,,,,,
+1966,Storm,USA,"United States of America (the)",4,290,,,,,100000
+1966,Storm,WLF,"Wallis and Futuna",1,,,,,,
+1967,Storm,BGD,Bangladesh,2,91,,200,,200,
+1967,Storm,BEL,Belgium,1,,,100,,100,
+1967,Storm,COK,"Cook Islands (the)",1,,,,,,
+1967,Storm,FRA,France,1,5,,,,,20000
+1967,Storm,HKG,"Hong Kong",1,,1500,3,,1503,
+1967,Storm,IND,India,1,1000,,,,,
+1967,Storm,JPN,Japan,2,290,2655,429,,3084,
+1967,Storm,MTQ,Martinique,1,15,1000,,,1000,
+1967,Storm,MUS,Mauritius,1,,20000,24,3500,23524,5000
+1967,Storm,MEX,Mexico,2,111,271000,,,271000,184000
+1967,Storm,MMR,Myanmar,2,278,157319,200,,157519,8200
+1967,Storm,PHL,"Philippines (the)",1,107,137000,,,137000,26500
+1967,Storm,LCA,"Saint Lucia",1,,,,,,3000
+1967,Storm,VCT,"Saint Vincent and the Grenadines",1,2,,,,,4500
+1967,Storm,SLB,"Solomon Islands",1,12,,,,,
+1967,Storm,TWN,"Taiwan (Province of China)",1,69,100,67,,167,
+1967,Storm,USA,"United States of America (the)",5,275,,,,,200000
+1968,Storm,BGD,Bangladesh,1,118,15093,1045,,16138,1500
+1968,Storm,CHL,Chile,1,,,,,,
+1968,Storm,COL,Colombia,1,,1020,,63,1083,50
+1968,Storm,CUB,Cuba,1,,,,,,
+1968,Storm,DFR,"Germany Fed Rep",1,2,,,,,31000
+1968,Storm,HKG,"Hong Kong",1,,3000,4,,3004,
+1968,Storm,IND,India,1,7,15000,,,15000,
+1968,Storm,JPN,Japan,3,124,,,,,
+1968,Storm,KOR,"Korea (the Republic of)",1,18,,,,,3000
+1968,Storm,MDG,Madagascar,1,29,65000,,10000,75000,3100
+1968,Storm,MYS,Malaysia,1,21,10000,,,10000,
+1968,Storm,MMR,Myanmar,1,1070,60000,,30000,90000,2500
+1968,Storm,NCL,"New Caledonia",1,,,,,,
+1968,Storm,NZL,"New Zealand",1,50,1000,,,1000,
+1968,Storm,NIU,Niue,1,,,,,,
+1968,Storm,PHL,"Philippines (the)",2,50,187330,,39313,226643,9600
+1968,Storm,WSM,Samoa,1,,,4,,4,238
+1968,Storm,SLB,"Solomon Islands",1,1,,,200,200,
+1968,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,20,700,,,700,2500
+1968,Storm,USA,"United States of America (the)",3,159,458,,,458,8000
+1969,Storm,BGD,Bangladesh,1,849,160000,15530,23943,199473,8329
+1969,Storm,CYP,Cyprus,1,3,3000,100,,3100,100
+1969,Storm,SLV,"El Salvador",1,2,4600,40,,4640,1600
+1969,Storm,FRA,France,1,23,,,,,
+1969,Storm,GTM,Guatemala,1,269,10200,,,10200,15000
+1969,Storm,HND,Honduras,1,,8000,2,,8002,19000
+1969,Storm,HKG,"Hong Kong",1,,374,,,374,
+1969,Storm,IND,India,4,815,280092,,,280092,8330
+1969,Storm,JPN,Japan,1,72,,,,,
+1969,Storm,KOR,"Korea (the Republic of)",1,85,120000,15,,120015,
+1969,Storm,MDG,Madagascar,1,81,40000,40,3000,43040,5000
+1969,Storm,MEX,Mexico,1,58,,,,,
+1969,Storm,NCL,"New Caledonia",1,,,,,,3000
+1969,Storm,PHL,"Philippines (the)",1,11,,,,,
+1969,Storm,TWN,"Taiwan (Province of China)",2,269,40000,408,,40408,88000
+1969,Storm,USA,"United States of America (the)",6,715,,,,,1420000
+1970,Storm,AUS,Australia,1,13,,,,,72475
+1970,Storm,BGD,Bangladesh,3,300317,3648110,,,3648110,86400
+1970,Storm,CAN,Canada,1,10,,,,,
+1970,Storm,CHN,China,1,107,6065,55,7880,14000,
+1970,Storm,CUB,Cuba,1,20,,,,,
+1970,Storm,DMA,Dominica,1,,,,,,
+1970,Storm,GLP,Guadeloupe,1,,,,,,
+1970,Storm,IND,India,1,,,,2000,2000,
+1970,Storm,ITA,Italy,1,35,200,,,200,3200
+1970,Storm,KOR,"Korea (the Republic of)",1,39,2500,,,2500,5100
+1970,Storm,MDG,Madagascar,1,70,10000,,,10000,11400
+1970,Storm,MTQ,Martinique,1,45,5000,,,5000,31000
+1970,Storm,PHL,"Philippines (the)",8,3802,1740370,4977,67200,1812547,258399
+1970,Storm,USA,"United States of America (the)",2,37,,,,,597000
+1971,Storm,AUS,Australia,1,3,,,,,119219
+1971,Storm,BGD,Bangladesh,1,163,,,,,
+1971,Storm,CAN,Canada,1,,,,,,
+1971,Storm,CHL,Chile,1,,90000,,,90000,2500
+1971,Storm,HND,Honduras,1,,,,,,
+1971,Storm,HKG,"Hong Kong",1,115,200,286,1000,1486,
+1971,Storm,IND,India,2,9718,4900000,,2000000,6900000,30000
+1971,Storm,JPN,Japan,1,135,,,,,
+1971,Storm,KOR,"Korea (the Republic of)",2,109,50,,,50,
+1971,Storm,MEX,Mexico,1,17,,,,,
+1971,Storm,NIC,Nicaragua,1,35,2800,50,1800,4650,380
+1971,Storm,PHL,"Philippines (the)",4,246,,11,46500,46511,1290
+1971,Storm,ESP,Spain,1,,,,,,55000
+1971,Storm,USA,"United States of America (the)",2,158,,,,,
+1971,Storm,VNM,"Viet Nam",2,112,50000,,,50000,
+1972,Storm,BGD,Bangladesh,1,200,25000,,,25000,
+1972,Storm,BEL,Belgium,1,,,,,,
+1972,Storm,FJI,Fiji,1,3,120000,,,120000,22500
+1972,Storm,DFR,"Germany Fed Rep",1,54,,,,,420000
+1972,Storm,IND,India,3,230,4530075,,,4530075,
+1972,Storm,IRN,"Iran (Islamic Republic of)",1,60,,,,,
+1972,Storm,JPN,Japan,1,50,,,,,
+1972,Storm,KIR,Kiribati,1,3,700,,,700,
+1972,Storm,MDG,Madagascar,1,91,2500000,56,10000,2510056,12420
+1972,Storm,MUS,Mauritius,1,2,25000,16,,25016,
+1972,Storm,NLD,"Netherlands (the)",1,,,,,,
+1972,Storm,NCL,"New Caledonia",1,3,,,,,
+1972,Storm,PNG,"Papua New Guinea",1,,,,,,
+1972,Storm,PHL,"Philippines (the)",3,435,465000,678,27000,492678,48000
+1972,Storm,TUR,Turkey,1,30,,,,,
+1972,Storm,TUV,Tuvalu,1,6,700,,,700,
+1972,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,,,,,,
+1972,Storm,USA,"United States of America (the)",2,256,,,,,2100000
+1972,Storm,VUT,Vanuatu,3,4,,,,,
+1973,Storm,ARG,Argentina,1,60,,300,,300,
+1973,Storm,BGD,Bangladesh,3,1900,25000,15000,10000,50000,
+1973,Storm,FJI,Fiji,2,59,6150,,,6150,
+1973,Storm,HKG,"Hong Kong",1,1,238,38,,276,
+1973,Storm,IDN,Indonesia,1,1650,,,,,
+1973,Storm,ITA,Italy,3,38,5000,,,5000,480000
+1973,Storm,JAM,Jamaica,1,6,2500,10,,2510,1700
+1973,Storm,JPN,Japan,1,101,,,,,
+1973,Storm,PHL,"Philippines (the)",3,346,3400000,24,45000,3445024,7000
+1973,Storm,PRT,Portugal,1,11,,,,,
+1973,Storm,ESP,Spain,1,19,,,,,
+1973,Storm,TON,Tonga,1,3,700,,200,900,500
+1973,Storm,USA,"United States of America (the)",2,50,246,,,246,50000
+1973,Storm,VNM,"Viet Nam",1,100,150000,,,150000,
+1974,Storm,ARG,Argentina,1,100,100000,,,100000,
+1974,Storm,AUS,Australia,2,76,45000,640,,45640,1096717
+1974,Storm,BGD,Bangladesh,3,2800,,,,,
+1974,Storm,BLZ,Belize,1,,70000,,,70000,4000
+1974,Storm,DFR,"Germany Fed Rep",1,,,,,,22000
+1974,Storm,HND,Honduras,1,8000,600000,,,600000,540000
+1974,Storm,HKG,"Hong Kong",2,1,2400,,,2400,
+1974,Storm,IND,India,2,20,25000,100,,25100,
+1974,Storm,IDN,Indonesia,1,10,2000,,,2000,
+1974,Storm,JPN,Japan,3,284,,50,,50,400000
+1974,Storm,MEX,Mexico,1,13,,,,,
+1974,Storm,PHL,"Philippines (the)",7,203,97095,117,6441,103653,55300
+1974,Storm,TTO,"Trinidad and Tobago",1,2,50000,,,50000,5000
+1974,Storm,USA,"United States of America (the)",2,352,,,,,1000000
+1975,Storm,ARG,Argentina,1,20,,,,,
+1975,Storm,AUS,Australia,1,,,,,,63861
+1975,Storm,CAN,Canada,2,14,,40,300,340,2500
+1975,Storm,FJI,Fiji,1,,23000,,,23000,1000
+1975,Storm,HKG,"Hong Kong",2,,733,46,1280,2059,
+1975,Storm,IND,India,5,501,,,2000,2000,200000
+1975,Storm,IRN,"Iran (Islamic Republic of)",1,14,,,,,
+1975,Storm,JPN,Japan,1,68,123,52,,175,505000
+1975,Storm,MDG,Madagascar,1,7,10000,50,,10050,
+1975,Storm,MUS,Mauritius,1,9,826199,59,,826258,200000
+1975,Storm,MEX,Mexico,1,29,,,,,
+1975,Storm,MMR,Myanmar,1,200,,,,,
+1975,Storm,NCL,"New Caledonia",1,,,,,,
+1975,Storm,PHL,"Philippines (the)",1,39,4518,8,698,5224,2161
+1975,Storm,PRI,"Puerto Rico",1,26,,,,,
+1975,Storm,SLE,"Sierra Leone",1,1,10000,,,10000,3600
+1975,Storm,USA,"United States of America (the)",4,102,200,,,200,550000
+1975,Storm,VUT,Vanuatu,1,,,,,,
+1975,Storm,ZWE,Zimbabwe,1,11,,,,,
+1976,Storm,AUS,Australia,6,,,,,,107011
+1976,Storm,AUT,Austria,1,,,,,,
+1976,Storm,BGD,Bangladesh,2,47,,200,,200,201
+1976,Storm,BEL,Belgium,1,,,,,,
+1976,Storm,DNK,Denmark,1,,,,,,
+1976,Storm,FRA,France,1,,,,,,
+1976,Storm,DFR,"Germany Fed Rep",1,82,,,,,1300000
+1976,Storm,GUM,Guam,1,9,,,,,120000
+1976,Storm,HKG,"Hong Kong",3,38,,68,2424,2492,
+1976,Storm,IND,India,6,270,600000,,,600000,266756
+1976,Storm,IDN,Indonesia,1,25,,,,,
+1976,Storm,JPN,Japan,1,169,325000,107,,325107,800000
+1976,Storm,MDG,Madagascar,1,16,500000,26,8850,508876,17000
+1976,Storm,MEX,Mexico,2,720,475000,1400,100000,576400,100000
+1976,Storm,NLD,"Netherlands (the)",1,,,,,,
+1976,Storm,NCL,"New Caledonia",1,,,,,,
+1976,Storm,PHL,"Philippines (the)",3,387,2704443,17,110,2704570,178426
+1976,Storm,SWE,Sweden,1,,,,,,
+1976,Storm,CHE,Switzerland,1,,,,,,
+1976,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,,,,,,
+1977,Storm,AUS,Australia,2,,,,,,48949
+1977,Storm,BGD,Bangladesh,3,634,,10600,,10600,50000
+1977,Storm,BRA,Brazil,1,10,,100,,100,
+1977,Storm,CAN,Canada,1,,,,,,
+1977,Storm,TCD,Chad,1,13,,100,,100,
+1977,Storm,CHL,Chile,1,15,,,16800,16800,6800
+1977,Storm,HKG,"Hong Kong",2,1,20,37,71,128,
+1977,Storm,IND,India,2,14206,9047400,,5432400,14479800,498535
+1977,Storm,IDN,Indonesia,1,1,3000,60,,3060,
+1977,Storm,JPN,Japan,2,32,5000,45,8000,13045,
+1977,Storm,MDG,Madagascar,1,10,30000,,,30000,350000
+1977,Storm,MEX,Mexico,1,10,50000,,,50000,
+1977,Storm,MOZ,Mozambique,1,3,,51,,51,
+1977,Storm,OMN,Oman,2,107,5000,96,1500,6596,
+1977,Storm,PHL,"Philippines (the)",5,104,142422,118,15679,158219,4425
+1977,Storm,TWN,"Taiwan (Province of China)",1,61,11000,528,,11528,250000
+1977,Storm,TON,Tonga,1,,10000,5,,10005,1100
+1977,Storm,USA,"United States of America (the)",2,91,,,,,
+1977,Storm,VUT,Vanuatu,1,,,,,,
+1977,Storm,VNM,"Viet Nam",1,,1000,,,1000,
+1978,Storm,ARG,Argentina,1,5,,100,,100,
+1978,Storm,AUS,Australia,5,5,100,,,100,1066614
+1978,Storm,BGD,Bangladesh,2,1030,,100,,100,
+1978,Storm,BLZ,Belize,1,5,6000,,,6000,6000
+1978,Storm,CUB,Cuba,1,6,100,70,,170,
+1978,Storm,FJI,Fiji,1,,,,,,
+1978,Storm,HND,Honduras,1,,,,7500,7500,1000
+1978,Storm,HKG,"Hong Kong",3,11,2293,185,418,2896,
+1978,Storm,IND,India,5,811,2100,1100,,3200,
+1978,Storm,ITA,Italy,1,1,,19,,19,1000
+1978,Storm,JPN,Japan,1,6,,100,3000,3100,
+1978,Storm,KOR,"Korea (the Republic of)",1,,4000,,,4000,19000
+1978,Storm,MDG,Madagascar,1,70,18000,,,18000,29000
+1978,Storm,MOZ,Mozambique,1,4,80000,,25000,105000,
+1978,Storm,MMR,Myanmar,1,,78000,,54000,132000,
+1978,Storm,NGA,Nigeria,1,100,,,,,
+1978,Storm,PHL,"Philippines (the)",9,617,1835169,834,22911,1858914,190084
+1978,Storm,LKA,"Sri Lanka",1,740,1000000,5000,,1005000,100000
+1978,Storm,THA,Thailand,1,50,,,,,
+1978,Storm,USA,"United States of America (the)",4,215,,,,,100000
+1979,Storm,AIA,Anguilla,1,,,,,,
+1979,Storm,AUS,Australia,2,15,,,,,49969
+1979,Storm,BGD,Bangladesh,2,53,,150,,150,
+1979,Storm,DMA,Dominica,1,40,70000,2100,,72100,44650
+1979,Storm,DOM,"Dominican Republic (the)",1,1400,1200000,4000,350000,1554000,150000
+1979,Storm,EGY,Egypt,1,3,15000,,,15000,
+1979,Storm,FJI,Fiji,1,53,20600,300,15000,35900,
+1979,Storm,GLP,Guadeloupe,1,,,,,,100000
+1979,Storm,HTI,Haiti,1,8,1110,,,1110,
+1979,Storm,HKG,"Hong Kong",2,13,11167,327,1096,12590,10000
+1979,Storm,IND,India,1,594,1605772,,,1605772,12800
+1979,Storm,JPN,Japan,1,71,,,,,
+1979,Storm,KOR,"Korea (the Republic of)",1,115,35000,,,35000,40000
+1979,Storm,MTQ,Martinique,1,,20000,3,,20003,50000
+1979,Storm,MUS,Mauritius,2,5,100000,257,5000,105257,175000
+1979,Storm,PHL,"Philippines (the)",5,62,523930,56,61535,585521,26450
+1979,Storm,PRI,"Puerto Rico",1,3,4500,,,4500,
+1979,Storm,SLB,"Solomon Islands",1,2,6000,,,6000,
+1979,Storm,USA,"United States of America (the)",4,186,2000,160,,2160,2863000
+1979,Storm,VUT,Vanuatu,1,,,,,,
+1980,Storm,AUS,Australia,5,,,,,,94928
+1980,Storm,BGD,Bangladesh,1,11,1000,50,,1050,
+1980,Storm,BRB,Barbados,1,,,7,5000,5007,1500
+1980,Storm,BRA,Brazil,1,15,,48,,48,
+1980,Storm,CHN,China,1,188,,,100,100,
+1980,Storm,CUB,Cuba,1,3,,,,,
+1980,Storm,DNK,Denmark,1,,,,,,
+1980,Storm,DMA,Dominica,1,,,,,,
+1980,Storm,DOM,"Dominican Republic (the)",1,7,,,,,47000
+1980,Storm,FJI,Fiji,1,18,28000,250,7000,35250,2256
+1980,Storm,GRD,Grenada,1,,,,,,5300
+1980,Storm,HTI,Haiti,1,220,330000,,835000,1165000,400000
+1980,Storm,HKG,"Hong Kong",2,2,309,59,,368,
+1980,Storm,IND,India,3,153,,,,,
+1980,Storm,IDN,Indonesia,1,,,,800,800,
+1980,Storm,JAM,Jamaica,1,6,30000,9,,30009,64000
+1980,Storm,JPN,Japan,1,7,15000,33,2000,17033,
+1980,Storm,KOR,"Korea (the Republic of)",2,165,20000,17,,20017,7220
+1980,Storm,MTQ,Martinique,1,,,,,,68000
+1980,Storm,PAK,Pakistan,1,18,,23,,23,
+1980,Storm,PHL,"Philippines (the)",6,212,1326831,55,540079,1866965,118391
+1980,Storm,REU,RÈunion,1,25,7000,,,7000,67000
+1980,Storm,LCA,"Saint Lucia",1,9,70000,,10000,80000,87990
+1980,Storm,VCT,"Saint Vincent and the Grenadines",1,,20000,,500,20500,16300
+1980,Storm,USA,"United States of America (the)",3,12,,170,400,570,910000
+1980,Storm,VNM,"Viet Nam",2,308,14987000,384,664500,15651884,
+1981,Storm,AUS,Australia,1,,,,,,7895
+1981,Storm,AUT,Austria,1,,,,,,
+1981,Storm,BGD,Bangladesh,3,1085,2000000,12000,25000,2037000,
+1981,Storm,BGR,Bulgaria,1,,,,,,
+1981,Storm,CAN,Canada,1,,,,,,79000
+1981,Storm,CAF,"Central African Republic",1,,900,50,900,1850,125
+1981,Storm,CHN,China,1,,,,,,
+1981,Storm,COK,"Cook Islands (the)",1,,,,,,
+1981,Storm,CSK,Czechoslovakia,1,,600,,,600,
+1981,Storm,DNK,Denmark,1,9,,,,,250000
+1981,Storm,FJI,Fiji,1,,4700,,,4700,
+1981,Storm,HKG,"Hong Kong",1,,,,,,
+1981,Storm,IND,India,5,805,131700,,,131700,
+1981,Storm,IRN,"Iran (Islamic Republic of)",1,200,,,,,
+1981,Storm,JPN,Japan,4,163,60000,100,22500,82600,
+1981,Storm,KOR,"Korea (the Republic of)",1,113,14253,,,14253,134000
+1981,Storm,MDG,Madagascar,1,107,118000,,,118000,250000
+1981,Storm,MEX,Mexico,1,100,,,,,40000
+1981,Storm,NCL,"New Caledonia",3,4,2000,,,2000,200
+1981,Storm,OMN,Oman,1,26,,,,,
+1981,Storm,PAK,Pakistan,1,56,,600,,600,
+1981,Storm,PHL,"Philippines (the)",8,999,1089918,169,11458,1101545,90384
+1981,Storm,SUN,"Soviet Union",1,,10000,,,10000,
+1981,Storm,TWN,"Taiwan (Province of China)",1,26,,,,,
+1981,Storm,THA,Thailand,2,55,43000,,,43000,13000
+1981,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,12,,,,,
+1981,Storm,USA,"United States of America (the)",3,30,,,,,861000
+1981,Storm,VUT,Vanuatu,2,,,,,,1000
+1982,Storm,AUS,Australia,3,1,,,,,31085
+1982,Storm,BEL,Belgium,1,,,,,,
+1982,Storm,BRA,Brazil,1,33,4000,300,,4300,
+1982,Storm,CPV,"Cabo Verde",1,3,2100,122,,2222,3000
+1982,Storm,CUB,Cuba,1,24,105000,,75000,180000,85000
+1982,Storm,FRA,France,2,12,,,,,350000
+1982,Storm,HND,Honduras,1,130,20000,,,20000,101000
+1982,Storm,HKG,"Hong Kong",1,5,,,900,900,
+1982,Storm,IND,India,2,744,5300000,493,,5300493,745420
+1982,Storm,IDN,Indonesia,1,2,,123,,123,
+1982,Storm,JPN,Japan,4,218,3000,252,145000,148252,212000
+1982,Storm,KOR,"Korea (the Republic of)",2,68,5000,42,,5042,30000
+1982,Storm,MDG,Madagascar,1,92,,,70000,70000,250000
+1982,Storm,MUS,Mauritius,2,,32500,,,32500,973
+1982,Storm,MEX,Mexico,1,225,50000,,,50000,82400
+1982,Storm,MMR,Myanmar,1,11,36000,,,36000,
+1982,Storm,NIC,Nicaragua,1,71,52000,,,52000,356000
+1982,Storm,PHL,"Philippines (the)",9,563,690172,360,329083,1019615,118605
+1982,Storm,SAU,"Saudi Arabia",1,,,,,,
+1982,Storm,SLB,"Solomon Islands",1,,30000,,,30000,
+1982,Storm,CHE,Switzerland,1,,,,,,1000
+1982,Storm,TON,Tonga,2,7,100000,14,46500,146514,22300
+1982,Storm,USA,"United States of America (the)",11,503,36000,,15500,51500,2112000
+1982,Storm,VNM,"Viet Nam",1,70,1300000,290,,1300290,
+1983,Storm,AIA,Anguilla,1,,,,,,160
+1983,Storm,AUS,Australia,3,,,,,,10012
+1983,Storm,BGD,Bangladesh,4,685,5000,350,,5350,
+1983,Storm,CHN,China,5,510,21000,363,,21363,
+1983,Storm,COL,Colombia,1,1,,40,500,540,
+1983,Storm,COM,"Comoros (the)",1,33,30000,52,,30052,23000
+1983,Storm,CYP,Cyprus,1,,,,,,
+1983,Storm,DNK,Denmark,1,2,,,,,
+1983,Storm,FJI,Fiji,2,9,211132,14,,211146,50851
+1983,Storm,FRA,France,2,11,,,,,
+1983,Storm,PYF,"French Polynesia",2,7,5000,50,,5050,37000
+1983,Storm,HKG,"Hong Kong",2,22,,396,2166,2562,12544
+1983,Storm,IND,India,5,782,1541000,1800,14000,1556800,591000
+1983,Storm,IRL,Ireland,1,10,,,,,
+1983,Storm,JPN,Japan,2,175,,78,,78,
+1983,Storm,MDG,Madagascar,1,42,13560,,,13560,25000
+1983,Storm,MUS,Mauritius,1,1,350,1,,351,
+1983,Storm,MEX,Mexico,2,275,250000,,32500,282500,
+1983,Storm,PHL,"Philippines (the)",4,128,140642,28,29860,170530,4320
+1983,Storm,POL,Poland,1,,900,,,900,2000
+1983,Storm,LCA,"Saint Lucia",1,,3000,,,3000,1290
+1983,Storm,WSM,Samoa,1,,1000,,,1000,31600
+1983,Storm,ZAF,"South Africa",1,10,,200,,200,
+1983,Storm,SUN,"Soviet Union",1,,,,,,
+1983,Storm,CHE,Switzerland,2,,140,,,140,1000
+1983,Storm,TWN,"Taiwan (Province of China)",1,82,,,,,
+1983,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,5,,12,,12,
+1983,Storm,USA,"United States of America (the)",6,132,,,6000,6000,4655000
+1983,Storm,VNM,"Viet Nam",3,734,580000,508,601360,1181868,
+1984,Storm,AIA,Anguilla,1,,,,,,2115
+1984,Storm,AUT,Austria,1,12,,,,,
+1984,Storm,BEL,Belgium,1,,,,,,
+1984,Storm,BRA,Brazil,1,10,200,,,200,
+1984,Storm,CPV,"Cabo Verde",1,29,5500,,,5500,
+1984,Storm,CHL,Chile,2,127,203064,115,119994,323173,
+1984,Storm,CHN,China,3,13,,,,,
+1984,Storm,CSK,Czechoslovakia,1,,,,,,
+1984,Storm,DMA,Dominica,1,2,10000,,,10000,2000
+1984,Storm,FRA,France,3,4,,,,,
+1984,Storm,DDR,"Germany Dem Rep",2,,,,,,
+1984,Storm,DFR,"Germany Fed Rep",2,3,,250,,250,950000
+1984,Storm,HUN,Hungary,1,4,,,,,
+1984,Storm,IND,India,3,524,1335000,,,1335000,35000
+1984,Storm,MDG,Madagascar,1,68,100000,215,,100215,250000
+1984,Storm,MUS,Mauritius,1,,,,,,
+1984,Storm,MEX,Mexico,1,4,10000,,,10000,
+1984,Storm,MOZ,Mozambique,1,109,350000,,,350000,75000
+1984,Storm,NLD,"Netherlands (the)",1,,,,,,
+1984,Storm,PHL,"Philippines (the)",4,2679,3210815,2865,1321526,4535206,336490
+1984,Storm,REU,RÈunion,1,,,,,,
+1984,Storm,KNA,"Saint Kitts and Nevis",1,,,,,,
+1984,Storm,SLE,"Sierra Leone",1,60,,,,,
+1984,Storm,ZAF,"South Africa",2,64,500000,,,500000,142000
+1984,Storm,SUN,"Soviet Union",1,400,,,,,
+1984,Storm,ESP,Spain,2,9,60000,60,,60060,1001000
+1984,Storm,SWZ,Swaziland,1,53,632000,,500,632500,54152
+1984,Storm,CHE,Switzerland,1,,,,,,9600
+1984,Storm,TUV,Tuvalu,1,,,,,,
+1984,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,22,,,,,81500
+1984,Storm,USA,"United States of America (the)",11,1117,14000,657,,14657,2222600
+1984,Storm,VNM,"Viet Nam",2,155,650416,383,1000,651799,
+1985,Storm,AUS,Australia,2,27,,,,,129255
+1985,Storm,BGD,Bangladesh,3,15121,1319000,2300,510000,1831300,50000
+1985,Storm,BEL,Belgium,1,,,,,,
+1985,Storm,BMU,Bermuda,1,,,,,,2000
+1985,Storm,BRA,Brazil,1,22,,1000,2000,3000,
+1985,Storm,CAN,Canada,1,12,,200,800,1000,117000
+1985,Storm,CHN,China,3,296,200000,1400,,201400,
+1985,Storm,COM,"Comoros (the)",1,2,35000,,,35000,5568
+1985,Storm,CUB,Cuba,1,4,476891,,22000,498891,
+1985,Storm,DNK,Denmark,1,,,,,,
+1985,Storm,FJI,Fiji,3,32,122000,,,122000,76000
+1985,Storm,FRA,France,1,,,,,,
+1985,Storm,DDR,"Germany Dem Rep",1,,,,,,
+1985,Storm,DFR,"Germany Fed Rep",1,,,,,,
+1985,Storm,HKG,"Hong Kong",1,2,600,12,,612,42
+1985,Storm,IND,India,2,178,105000,,,105000,
+1985,Storm,IDN,Indonesia,1,,10000,,,10000,
+1985,Storm,JAM,Jamaica,1,7,,,300,300,5200
+1985,Storm,JPN,Japan,2,49,30000,200,,30200,99500
+1985,Storm,KOR,"Korea (the Republic of)",1,57,,20,,20,14000
+1985,Storm,MUS,Mauritius,1,,,,,,
+1985,Storm,MOZ,Mozambique,1,,,,,,
+1985,Storm,NLD,"Netherlands (the)",1,,,,,,
+1985,Storm,PHL,"Philippines (the)",3,186,1603687,31,256,1603974,83033
+1985,Storm,SLB,"Solomon Islands",1,,650,,,650,
+1985,Storm,LKA,"Sri Lanka",1,,8000,,,8000,
+1985,Storm,CHE,Switzerland,1,,,,,,2000
+1985,Storm,TCA,"Turks and Caicos Islands (the)",1,,770,,,770,5
+1985,Storm,USA,"United States of America (the)",10,363,1000000,500,20000,1020500,5081600
+1985,Storm,VUT,Vanuatu,1,9,117500,,,117500,173000
+1985,Storm,VNM,"Viet Nam",1,798,225000,257,225000,450257,
+1986,Storm,ARG,Argentina,1,1,1000,,,1000,
+1986,Storm,AUS,Australia,5,7,,12,1000,1012,201639
+1986,Storm,BGD,Bangladesh,4,184,2600000,3100,120000,2723100,
+1986,Storm,BMU,Bermuda,1,,,,,,1500
+1986,Storm,CAN,Canada,1,,2400,,,2400,
+1986,Storm,CHL,Chile,1,16,30790,16,,30806,
+1986,Storm,CHN,China,7,368,4603500,2556,10000,4616056,1427200
+1986,Storm,COL,Colombia,1,4,28000,,,28000,2500
+1986,Storm,DOM,"Dominican Republic (the)",1,12,2000,,,2000,
+1986,Storm,FJI,Fiji,1,1,3000,,,3000,20000
+1986,Storm,HKG,"Hong Kong",2,5,,41,,41,
+1986,Storm,IND,India,5,390,3100000,100,200000,3300100,272943
+1986,Storm,IRL,Ireland,1,11,,,,,
+1986,Storm,JPN,Japan,2,17,2000,358,,2358,2200000
+1986,Storm,KOR,"Korea (the Republic of)",1,33,6623,73,,6696,10900
+1986,Storm,MDG,Madagascar,1,99,83885,424,,84309,150000
+1986,Storm,NPL,Nepal,2,1,,,,,3600
+1986,Storm,NLD,"Netherlands (the)",1,,,,,,
+1986,Storm,PAK,Pakistan,1,11,,250,,250,
+1986,Storm,PHL,"Philippines (the)",6,176,1235949,154,6633,1242736,86460
+1986,Storm,LCA,"Saint Lucia",1,,,,,,
+1986,Storm,SLB,"Solomon Islands",1,101,90000,,60000,150000,20000
+1986,Storm,CHE,Switzerland,2,,,,,,105000
+1986,Storm,TWN,"Taiwan (Province of China)",2,65,,,,,485000
+1986,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,,,,,,
+1986,Storm,USA,"United States of America (the)",2,1,,80,,80,70000
+1986,Storm,VNM,"Viet Nam",1,435,2500000,2502,,2502502,
+1986,Storm,WLF,"Wallis and Futuna",1,1,4500,,,4500,
+1987,Storm,ARG,Argentina,1,1,1000,,,1000,10000
+1987,Storm,BGD,Bangladesh,1,12,,,,,
+1987,Storm,BRB,Barbados,1,,,,230,230,100000
+1987,Storm,BMU,Bermuda,1,,,40,,40,50000
+1987,Storm,CAN,Canada,1,26,,250,,250,265000
+1987,Storm,CHN,China,6,406,959000,2188,425400,1386588,120000
+1987,Storm,COM,"Comoros (the)",1,24,,,50000,50000,9000
+1987,Storm,COK,"Cook Islands (the)",1,5,2000,,,2000,25000
+1987,Storm,CSK,Czechoslovakia,1,,,,,,15000
+1987,Storm,DOM,"Dominican Republic (the)",1,3,,,,,23700
+1987,Storm,EGY,Egypt,1,30,,11,,11,
+1987,Storm,FJI,Fiji,1,1,3369,,,3369,25000
+1987,Storm,FRA,France,1,4,,,,,1700000
+1987,Storm,GRC,Greece,1,48,,,,,350000
+1987,Storm,GUM,Guam,1,,,,502,502,145
+1987,Storm,GNB,Guinea-Bissau,1,1,,3,3700,3703,
+1987,Storm,IND,India,4,166,80000,,,80000,
+1987,Storm,ITA,Italy,3,33,,,,,1203700
+1987,Storm,JPN,Japan,1,8,65000,10,,65010,
+1987,Storm,KOR,"Korea (the Republic of)",2,619,56000,,,56000,525000
+1987,Storm,FSM,"Micronesia (Federated States of)",1,5,,3,200,203,6000
+1987,Storm,NPL,Nepal,1,,,,,,
+1987,Storm,PHL,"Philippines (the)",5,1094,2911027,1466,325139,3237632,193700
+1987,Storm,REU,RÈunion,1,10,4000,,,4000,2000
+1987,Storm,LCA,"Saint Lucia",1,,,,,,
+1987,Storm,VCT,"Saint Vincent and the Grenadines",1,,,8,200,208,5300
+1987,Storm,ESP,Spain,1,,,,,,8000
+1987,Storm,CHE,Switzerland,1,1,,,,,138900
+1987,Storm,TWN,"Taiwan (Province of China)",1,61,2200,,,2200,
+1987,Storm,TKL,Tokelau,1,,1700,,30,1730,500
+1987,Storm,TUV,Tuvalu,1,,,,,,
+1987,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,20,,,,,1565000
+1987,Storm,USA,"United States of America (the)",8,151,3200,,,3200,204000
+1987,Storm,VUT,Vanuatu,1,48,48000,,,48000,25000
+1987,Storm,VNM,"Viet Nam",2,123,584800,211,352000,937011,
+1988,Storm,DZA,Algeria,1,,10107,,,10107,
+1988,Storm,AUS,Australia,1,1,,,,,20417
+1988,Storm,BGD,Bangladesh,4,1064,8573860,200,2000000,10574060,
+1988,Storm,TCD,Chad,1,11,1200,,,1200,157
+1988,Storm,CHN,China,4,335,186000,1232,50000,237232,
+1988,Storm,COL,Colombia,1,26,100000,,,100000,50000
+1988,Storm,CRI,"Costa Rica",1,28,120000,7500,,127500,60000
+1988,Storm,CUB,Cuba,2,,60000,,1500,61500,
+1988,Storm,HTI,Haiti,1,54,870000,,,870000,91286
+1988,Storm,HND,Honduras,1,,,12,,12,
+1988,Storm,HKG,"Hong Kong",1,,100,4,,104,
+1988,Storm,IND,India,1,74,1900000,,,1900000,13000
+1988,Storm,JAM,Jamaica,1,49,810000,,,810000,1000000
+1988,Storm,KEN,Kenya,1,50,,,,,
+1988,Storm,MEX,Mexico,3,288,100000,,25000,125000,326000
+1988,Storm,MOZ,Mozambique,1,100,4000,,,4000,
+1988,Storm,NPL,Nepal,1,70,,,,,
+1988,Storm,NZL,"New Zealand",1,6,,,,,
+1988,Storm,NIC,Nicaragua,1,130,300000,278,60000,360278,400000
+1988,Storm,PAK,Pakistan,1,36,,,,,
+1988,Storm,PAN,Panama,1,30,6732,,2000,8732,60000
+1988,Storm,PHL,"Philippines (the)",6,788,4450946,238,66321,4517505,403016
+1988,Storm,LCA,"Saint Lucia",1,,,,,,2500
+1988,Storm,USA,"United States of America (the)",18,27,,,,,
+1988,Storm,VUT,Vanuatu,2,,3100,,3600,6700,
+1988,Storm,VEN,"Venezuela (Bolivarian Republic of)",1,11,,,,,
+1988,Storm,VNM,"Viet Nam",2,157,1320000,,,1320000,
+1989,Storm,ASM,"American Samoa",1,,,,,,5000
+1989,Storm,ATG,"Antigua and Barbuda",1,2,7500,,530,8030,80000
+1989,Storm,AUS,Australia,2,4,,,,,107911
+1989,Storm,BGD,Bangladesh,2,815,100000,4000,,104000,16200
+1989,Storm,BMU,Bermuda,1,,,,,,
+1989,Storm,BRA,Brazil,1,36,45000,,,45000,
+1989,Storm,CAN,Canada,1,,,,,,
+1989,Storm,CHN,China,7,1115,38000000,10944,,38010944,885000
+1989,Storm,COM,"Comoros (the)",1,,,,,,5236
+1989,Storm,DMA,Dominica,1,,710,,,710,20000
+1989,Storm,DOM,"Dominican Republic (the)",1,,,,,,
+1989,Storm,FRA,France,1,9,,,,,
+1989,Storm,GLP,Guadeloupe,1,5,,84,11000,11084,50000
+1989,Storm,HKG,"Hong Kong",2,9,528,150,977,1655,67
+1989,Storm,IND,India,2,93,3700000,,,3700000,
+1989,Storm,JPN,Japan,2,15,,,,,
+1989,Storm,KOR,"Korea (the Republic of)",1,109,75145,49,,75194,176500
+1989,Storm,LSO,Lesotho,1,,,,,,
+1989,Storm,MDG,Madagascar,1,46,55346,,,55346,
+1989,Storm,MTQ,Martinique,1,,,,,,
+1989,Storm,MUS,Mauritius,1,1,4000,507,,4507,60000
+1989,Storm,MSR,Montserrat,1,11,,40,12000,12040,240000
+1989,Storm,ANT,"Netherlands Antilles",1,11,,,,,50000
+1989,Storm,NCL,"New Caledonia",1,2,,,,,
+1989,Storm,PHL,"Philippines (the)",7,378,1974519,982,161364,2136865,171085
+1989,Storm,PRT,Portugal,1,,,,,,
+1989,Storm,PRI,"Puerto Rico",2,,2000,,,2000,
+1989,Storm,REU,RÈunion,1,10,6200,61,,6261,50000
+1989,Storm,KNA,"Saint Kitts and Nevis",1,1,,,1300,1300,46000
+1989,Storm,WSM,Samoa,1,,,,,,15500
+1989,Storm,ESP,Spain,2,33,,,,,
+1989,Storm,TWN,"Taiwan (Province of China)",1,13,,,,,
+1989,Storm,THA,Thailand,1,458,154000,,45000,199000,452000
+1989,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,13,,,,,
+1989,Storm,USA,"United States of America (the)",16,108,,100,25000,25100,7880000
+1989,Storm,VNM,"Viet Nam",3,959,5635000,1359,781000,6417359,21000
+1989,Storm,VIR,"Virgin Island (U.S.)",1,,2000,,8000,10000,21800
+1990,Storm,ATG,"Antigua and Barbuda",1,,,,,,
+1990,Storm,AUS,Australia,2,,,,,,544700
+1990,Storm,AUT,Austria,5,3,,,,,250000
+1990,Storm,BHS,"Bahamas (the)",1,,,,,,
+1990,Storm,BGD,Bangladesh,4,693,53870,700,4000,58570,
+1990,Storm,BEL,Belgium,6,16,,,,,980000
+1990,Storm,CHN,China,11,629,5691155,436,210195,5901786,2079335
+1990,Storm,COK,"Cook Islands (the)",1,1,,,,,
+1990,Storm,DNK,Denmark,3,1,,,,,190000
+1990,Storm,FJI,Fiji,1,,3000,,3000,6000,10000
+1990,Storm,FIN,Finland,2,,,,,,10000
+1990,Storm,FRA,France,8,43,,,,,1910000
+1990,Storm,DEU,Germany,6,64,,,,,4440000
+1990,Storm,GRC,Greece,1,3,,,,,
+1990,Storm,GRD,Grenada,1,,1000,,,1000,
+1990,Storm,GLP,Guadeloupe,1,,,,,,
+1990,Storm,HTI,Haiti,1,,,,,,
+1990,Storm,IND,India,5,1843,4100000,,,4100000,2892800
+1990,Storm,IRL,Ireland,4,2,,,,,110000
+1990,Storm,ITA,Italy,1,6,,,,,20000
+1990,Storm,JPN,Japan,2,40,147700,78,,147778,4013000
+1990,Storm,KOR,"Korea (the Republic of)",1,27,,,,,6000
+1990,Storm,LUX,Luxembourg,6,,,,,,370000
+1990,Storm,MTQ,Martinique,1,8,1500,,,1500,
+1990,Storm,MEX,Mexico,1,38,,,,,90700
+1990,Storm,MNG,Mongolia,1,36,,,,,
+1990,Storm,MSR,Montserrat,1,,,,,,
+1990,Storm,NLD,"Netherlands (the)",6,20,,,,,1750000
+1990,Storm,NIU,Niue,1,,200,,,200,
+1990,Storm,NOR,Norway,2,,,,,,130000
+1990,Storm,PHL,"Philippines (the)",5,737,5208275,1288,1110020,6319583,388500
+1990,Storm,POL,Poland,1,,,,,,50000
+1990,Storm,KNA,"Saint Kitts and Nevis",1,,,,,,
+1990,Storm,WSM,Samoa,1,8,170000,,25000,195000,200000
+1990,Storm,ZAF,"South Africa",1,2,,,,,393000
+1990,Storm,ESP,Spain,2,9,,,,,
+1990,Storm,SWE,Sweden,2,,,,,,10000
+1990,Storm,CHE,Switzerland,4,5,,,,,280000
+1990,Storm,TWN,"Taiwan (Province of China)",2,5,20000,,,20000,
+1990,Storm,THA,Thailand,1,36,,,,,50000
+1990,Storm,TKL,Tokelau,1,,,,102,102,2400
+1990,Storm,TON,Tonga,1,1,2600,3,500,3103,2500
+1990,Storm,TTO,"Trinidad and Tobago",1,,1000,,,1000,
+1990,Storm,TCA,"Turks and Caicos Islands (the)",1,,,,,,
+1990,Storm,TUV,Tuvalu,1,,300,,400,700,
+1990,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",7,83,,,,,4790000
+1990,Storm,USA,"United States of America (the)",15,162,10668,,,10668,635000
+1990,Storm,VNM,"Viet Nam",3,102,500000,108,2000,502108,
+1991,Storm,AUS,Australia,2,,390,,18,408,1560
+1991,Storm,AUT,Austria,1,,,,,,28000
+1991,Storm,BGD,Bangladesh,2,138987,15000000,139149,300000,15439149,1780000
+1991,Storm,CAN,Canada,1,,,,,,500000
+1991,Storm,CHN,China,5,255,3339130,7276,10000,3356406,725690
+1991,Storm,DEU,Germany,1,,,,,,5000
+1991,Storm,HKG,"Hong Kong",1,22,,182,,182,10000
+1991,Storm,IND,India,1,125,25000,,,25000,
+1991,Storm,IRN,"Iran (Islamic Republic of)",1,22,,,,,
+1991,Storm,IRL,Ireland,1,,,,,,4000
+1991,Storm,ISR,Israel,1,5,,,,,
+1991,Storm,JPN,Japan,5,101,90000,777,351,91128,10086500
+1991,Storm,JOR,Jordan,1,2,,,,,
+1991,Storm,KOR,"Korea (the Republic of)",1,72,20750,,,20750,310000
+1991,Storm,LAO,"Lao People's Democratic Republic (the)",1,,38315,,,38315,150
+1991,Storm,MDG,Madagascar,1,36,125000,,125000,250000,
+1991,Storm,MDV,Maldives,1,,,,23849,23849,30000
+1991,Storm,MHL,"Marshall Islands (the)",1,,,,6000,6000,
+1991,Storm,MRT,Mauritania,1,4,,300,,300,
+1991,Storm,MUS,Mauritius,1,,6000,,1500,7500,
+1991,Storm,MEX,Mexico,1,13,9800,,200,10000,
+1991,Storm,MNG,Mongolia,1,6,,,,,
+1991,Storm,NPL,Nepal,1,6,165,,,165,
+1991,Storm,PHL,"Philippines (the)",6,6083,1494506,3109,74250,1571865,275000
+1991,Storm,WSM,Samoa,1,13,85000,,3000,88000,278000
+1991,Storm,SUN,"Soviet Union",1,41,,,,,24000
+1991,Storm,TWN,"Taiwan (Province of China)",1,33,,4,,4,
+1991,Storm,THA,Thailand,1,38,1858811,20,35407,1894238,8323
+1991,Storm,TUR,Turkey,1,1,,3,,3,
+1991,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,48,,,,,900000
+1991,Storm,USA,"United States of America (the)",17,87,2900,100,,3000,2560000
+1991,Storm,VNM,"Viet Nam",4,297,21478,222,455905,477605,10500
+1992,Storm,AUS,Australia,2,2,120,,,120,378000
+1992,Storm,BHS,"Bahamas (the)",1,4,,,1700,1700,250000
+1992,Storm,BGD,Bangladesh,2,23,,300,10000,10300,
+1992,Storm,CHL,Chile,2,,,,38000,38000,
+1992,Storm,CHN,China,8,860,16175283,19450,35000,16229733,1270800
+1992,Storm,FJI,Fiji,1,1,2000,,,2000,1600
+1992,Storm,FRA,France,2,48,2000,,,2000,400000
+1992,Storm,GUM,Guam,1,1,,542,5000,5542,300000
+1992,Storm,HKG,"Hong Kong",2,2,200,42,198,440,219700
+1992,Storm,IND,India,2,85,,100,,100,
+1992,Storm,IRN,"Iran (Islamic Republic of)",1,,3700,,,3700,
+1992,Storm,JPN,Japan,2,11,,434,,434,
+1992,Storm,KOR,"Korea (the Republic of)",1,,375,,58,433,
+1992,Storm,LAO,"Lao People's Democratic Republic (the)",1,22,268775,102,,268877,3650
+1992,Storm,LBN,Lebanon,1,25,100000,75,4000,104075,155000
+1992,Storm,MEX,Mexico,1,3,10000,,,10000,3000
+1992,Storm,NZL,"New Zealand",2,,,,,,51500
+1992,Storm,NOR,Norway,1,,,,,,
+1992,Storm,PAN,Panama,1,12,,50,,50,10000
+1992,Storm,PHL,"Philippines (the)",4,101,1037111,78,9105,1046294,
+1992,Storm,SLB,"Solomon Islands",1,,,,,,
+1992,Storm,TWN,"Taiwan (Province of China)",1,8,,,,,35000
+1992,Storm,THA,Thailand,4,6,359326,,27120,386446,
+1992,Storm,UKR,Ukraine,1,,1000,,,1000,1600
+1992,Storm,USA,"United States of America (the)",27,95,45000,55,250000,295055,34500000
+1992,Storm,VUT,Vanuatu,2,2,1150,10,,1160,
+1992,Storm,VNM,"Viet Nam",2,31,76125,23,3210,79358,18400
+1993,Storm,AFG,Afghanistan,1,10,,,,,
+1993,Storm,ARG,Argentina,1,15,4000,,4000,8000,50000
+1993,Storm,AUS,Australia,2,,12000,25,45,12070,
+1993,Storm,AUT,Austria,1,,,,,,1000
+1993,Storm,BGD,Bangladesh,8,452,757500,5520,105000,868020,
+1993,Storm,BGR,Bulgaria,1,,5000,,,5000,
+1993,Storm,CHN,China,11,214,8496560,3303,150000,8649863,1368510
+1993,Storm,CUB,Cuba,1,5,149680,95,,149775,1000000
+1993,Storm,ERI,Eritrea,1,3,,16,15659,15675,5165
+1993,Storm,FJI,Fiji,1,21,150000,3,10000,160003,100000
+1993,Storm,FRA,France,2,12,1700,20,,1720,550000
+1993,Storm,DEU,Germany,2,6,,,,,410000
+1993,Storm,GNB,Guinea-Bissau,1,,1722,,,1722,
+1993,Storm,HKG,"Hong Kong",6,7,904,296,119,1319,201920
+1993,Storm,IND,India,2,186,12000,500,60000,72500,100000
+1993,Storm,IRN,"Iran (Islamic Republic of)",1,,,,,,15000
+1993,Storm,ITA,Italy,1,8,1000,,,1000,625000
+1993,Storm,JPN,Japan,3,113,30255,208,,30463,1750000
+1993,Storm,PRK,"Korea (the Democratic People's Republic of)",1,6,2500,,,2500,110000
+1993,Storm,KOR,"Korea (the Republic of)",1,32,115,19,8496,8630,29393
+1993,Storm,LAO,"Lao People's Democratic Republic (the)",1,8,,120,,120,302151
+1993,Storm,LTU,Lithuania,1,6,780000,,,780000,4600
+1993,Storm,MAC,Macao,4,,1200,38,2748,3986,
+1993,Storm,MTQ,Martinique,1,2,,10,3000,3010,
+1993,Storm,MEX,Mexico,5,38,54000,,23000,77000,1672500
+1993,Storm,MNG,Mongolia,1,7,100000,,,100000,10000
+1993,Storm,NIC,Nicaragua,1,37,123000,,,123000,
+1993,Storm,NOR,Norway,1,,,,,,3000
+1993,Storm,PAK,Pakistan,1,609,,,,,
+1993,Storm,PNG,"Papua New Guinea",1,15,25000,40,15000,40040,1500
+1993,Storm,PHL,"Philippines (the)",6,518,3331639,566,249122,3581327,297442
+1993,Storm,REU,RÈunion,1,14,,,,,
+1993,Storm,ROU,Romania,1,3,,,200,200,
+1993,Storm,SLB,"Solomon Islands",1,4,88500,,,88500,
+1993,Storm,ZAF,"South Africa",1,7,,,,,
+1993,Storm,CHE,Switzerland,3,2,,,,,443760
+1993,Storm,THA,Thailand,2,4,213856,,60,213916,131970
+1993,Storm,TTO,"Trinidad and Tobago",1,,,,,,57
+1993,Storm,TUV,Tuvalu,1,,,,150,150,
+1993,Storm,USA,"United States of America (the)",20,291,,300,300,600,5125000
+1993,Storm,URY,Uruguay,1,,2000,,,2000,
+1993,Storm,VUT,Vanuatu,1,4,5000,5,7000,12005,6000
+1993,Storm,VEN,"Venezuela (Bolivarian Republic of)",1,100,,400,5500,5900,4500
+1993,Storm,VNM,"Viet Nam",3,206,26520,52,12185,38757,65000
+1994,Storm,AUS,Australia,4,27,2860000,94,320,2860414,77600
+1994,Storm,AUT,Austria,1,,,,,,2000
+1994,Storm,BGD,Bangladesh,4,205,450000,4009,205000,659009,127500
+1994,Storm,BTN,Bhutan,1,17,65000,,,65000,
+1994,Storm,BRA,Brazil,2,,,,2000,2000,91000
+1994,Storm,CAN,Canada,2,,1300,4,,1304,3000
+1994,Storm,CHN,China,5,1486,25445000,3747,693000,26141747,2147000
+1994,Storm,CUB,Cuba,1,2,67738,,42820,110558,101968
+1994,Storm,DEU,Germany,2,11,,,,,1045200
+1994,Storm,HTI,Haiti,1,1122,1500000,,87000,1587000,50000
+1994,Storm,IND,India,2,219,428500,100,,428600,19100
+1994,Storm,ITA,Italy,1,3,,100,,100,
+1994,Storm,JAM,Jamaica,1,4,,,,,1000
+1994,Storm,JPN,Japan,3,3,,127,,127,6000
+1994,Storm,KOR,"Korea (the Republic of)",1,28,,2,86,88,11
+1994,Storm,MDG,Madagascar,3,212,500000,51,40000,540051,10200
+1994,Storm,MUS,Mauritius,1,2,800,,1500,2300,135400
+1994,Storm,MDA,"Moldova (the Republic of)",1,3,,80,25500,25580,
+1994,Storm,MOZ,Mozambique,1,240,2000000,2000,500000,2502000,
+1994,Storm,MMR,Myanmar,1,17,64970,,,64970,10000
+1994,Storm,NLD,"Netherlands (the)",1,,,,,,2000
+1994,Storm,PAK,Pakistan,2,36,,20,,20,
+1994,Storm,PHL,"Philippines (the)",11,248,1659258,188,331771,1991217,140813
+1994,Storm,POL,Poland,1,1,,,,,1000
+1994,Storm,ROU,Romania,1,,,6,5400,5406,
+1994,Storm,RUS,"Russian Federation (the)",2,12,62,,,62,65800
+1994,Storm,LCA,"Saint Lucia",1,4,600,,150,750,
+1994,Storm,SOM,Somalia,1,30,,,,,
+1994,Storm,ZAF,"South Africa",1,2,,,2000,2000,
+1994,Storm,ESP,Spain,1,12,,,,,
+1994,Storm,CHE,Switzerland,1,,,,,,5000
+1994,Storm,TWN,"Taiwan (Province of China)",5,45,457,131,,588,457000
+1994,Storm,TZA,"Tanzania, United Republic of",1,4,,,2500,2500,
+1994,Storm,THA,Thailand,3,19,15000,,,15000,20000
+1994,Storm,TUR,Turkey,1,30,,,,,
+1994,Storm,USA,"United States of America (the)",9,165,20300,450,1000,21750,850000
+1994,Storm,VNM,"Viet Nam",1,30,11000,,,11000,45000
+1995,Storm,ATG,"Antigua and Barbuda",1,2,,165,3537,3702,350000
+1995,Storm,ARG,Argentina,1,6,6000,,,6000,
+1995,Storm,AUS,Australia,4,8,431500,69,200,431769,228700
+1995,Storm,BHS,"Bahamas (the)",1,,,,,,400
+1995,Storm,BGD,Bangladesh,4,753,2250000,1570,122000,2373570,800000
+1995,Storm,BRB,Barbados,1,,,,,,
+1995,Storm,BEL,Belgium,1,6,800,,,800,100000
+1995,Storm,CAN,Canada,1,2,,,,,100000
+1995,Storm,CHN,China,6,681,6253000,2998,312000,6567998,403540
+1995,Storm,CRI,"Costa Rica",1,,3262,,4800,8062,6300
+1995,Storm,CUB,Cuba,2,2,160,3,,163,2000
+1995,Storm,DJI,Djibouti,1,,775,,,775,
+1995,Storm,DMA,Dominica,2,2,,1,5000,5001,195000
+1995,Storm,DOM,"Dominican Republic (the)",2,11,300,30,2500,2830,
+1995,Storm,FRA,France,1,16,5000,,,5000,700000
+1995,Storm,DEU,Germany,2,5,30000,,,30000,529600
+1995,Storm,GLP,Guadeloupe,1,,,,,,50000
+1995,Storm,HND,Honduras,1,18,,22,,22,
+1995,Storm,IND,India,2,222,12000,,,12000,48300
+1995,Storm,JPN,Japan,1,3,500,,,500,9600
+1995,Storm,KAZ,Kazakhstan,1,112,,,,,3000
+1995,Storm,KOR,"Korea (the Republic of)",2,73,2400,160,2600,5160,565000
+1995,Storm,LAO,"Lao People's Democratic Republic (the)",1,26,,,1000000,1000000,
+1995,Storm,LBR,Liberia,1,,,,2000,2000,
+1995,Storm,LUX,Luxembourg,1,,,,,,10000
+1995,Storm,MTQ,Martinique,1,,,,,,160000
+1995,Storm,MEX,Mexico,5,170,20800,,46000,66800,2424700
+1995,Storm,MSR,Montserrat,1,,,,,,20000
+1995,Storm,NLD,"Netherlands (the)",1,1,250000,,,250000,1180000
+1995,Storm,ANT,"Netherlands Antilles",1,2,40000,,,40000,1000000
+1995,Storm,NIC,Nicaragua,1,38,15085,,,15085,
+1995,Storm,PHL,"Philippines (the)",7,1249,3168372,2440,106000,3276812,317494
+1995,Storm,PRI,"Puerto Rico",2,1,98000,,,98000,300000
+1995,Storm,RUS,"Russian Federation (the)",3,145,1350,10,1200,2560,44000
+1995,Storm,KNA,"Saint Kitts and Nevis",1,,1800,,,1800,197000
+1995,Storm,THA,Thailand,1,27,,,,,
+1995,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,9,,,,,650000
+1995,Storm,USA,"United States of America (the)",10,150,84000,160,2000,86160,13645000
+1995,Storm,VNM,"Viet Nam",1,16,23000,51,,23051,21200
+1995,Storm,VGB,"Virgin Island (British)",1,,,,,,10000
+1995,Storm,VIR,"Virgin Island (U.S.)",2,7,,,10000,10000,936000
+1996,Storm,AUS,Australia,6,7,621500,76,1230,622806,599533
+1996,Storm,AZO,"Azores Islands",1,,60,,,60,66000
+1996,Storm,BGD,Bangladesh,4,626,82600,36091,,118691,
+1996,Storm,CAN,Canada,1,,,,,,100
+1996,Storm,CHN,China,8,637,15302000,5482,10000,15317482,1988000
+1996,Storm,CRI,"Costa Rica",2,54,716000,,,716000,200000
+1996,Storm,CUB,Cuba,1,,269995,,66681,336676,13000
+1996,Storm,DOM,"Dominican Republic (the)",1,24,25000,,,25000,
+1996,Storm,SLV,"El Salvador",1,12,,,,,10
+1996,Storm,FRA,France,1,1,,,,,10
+1996,Storm,DEU,Germany,1,,,,,,500
+1996,Storm,GTM,Guatemala,1,,,,,,500
+1996,Storm,HTI,Haiti,2,66,,,115,115,100
+1996,Storm,HND,Honduras,2,1,,,,,1500
+1996,Storm,IND,India,4,1537,9177100,,,9177100,1500300
+1996,Storm,IRN,"Iran (Islamic Republic of)",1,9,,85,,85,13300
+1996,Storm,IRL,Ireland,1,2,,,,,1000
+1996,Storm,JAM,Jamaica,1,,,,800,800,3000
+1996,Storm,JPN,Japan,1,6,5400,74,264,5738,
+1996,Storm,LSO,Lesotho,2,,230,,20,250,
+1996,Storm,MDG,Madagascar,1,9,100000,,,100000,
+1996,Storm,MYS,Malaysia,1,270,1150,26,3000,4176,52000
+1996,Storm,MTQ,Martinique,1,,,,,,10
+1996,Storm,MUS,Mauritius,1,3,,,,,
+1996,Storm,MEX,Mexico,4,16,1000,80,18750,19830,10
+1996,Storm,MAR,Morocco,1,14,,,,,
+1996,Storm,MOZ,Mozambique,1,11,200000,,,200000,14500
+1996,Storm,NPL,Nepal,1,20,,19,,19,
+1996,Storm,NZL,"New Zealand",1,1,2000,,,2000,
+1996,Storm,NIC,Nicaragua,2,44,10724,,,10724,10100
+1996,Storm,PHL,"Philippines (the)",2,38,37615,13,,37628,42150
+1996,Storm,PRI,"Puerto Rico",1,18,57315,,,57315,500000
+1996,Storm,TWN,"Taiwan (Province of China)",2,65,,,,,1300000
+1996,Storm,THA,Thailand,1,9,343386,,,343386,150000
+1996,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,5,12000,,,12000,300000
+1996,Storm,USA,"United States of America (the)",9,287,4000,131,,4131,3400000
+1996,Storm,VNM,"Viet Nam",4,789,666500,591,,667091,600020
+1996,Storm,VGB,"Virgin Island (British)",1,,,3,,3,2000
+1997,Storm,BGD,Bangladesh,5,425,2792738,10664,1000000,3803402,
+1997,Storm,BLR,Belarus,1,5,21045,45,300,21390,33000
+1997,Storm,BRA,Brazil,1,3,600,76,,676,
+1997,Storm,KHM,Cambodia,1,25,,,,,10
+1997,Storm,CAN,Canada,1,1,,,,,10000
+1997,Storm,CHL,Chile,2,4,2250,,,2250,
+1997,Storm,CHN,China,5,282,6895000,3699,374000,7272699,3764700
+1997,Storm,COK,"Cook Islands (the)",1,19,700,200,,900,
+1997,Storm,EGY,Egypt,1,18,,60,,60,1000
+1997,Storm,SLV,"El Salvador",1,4,,,2000,2000,
+1997,Storm,FJI,Fiji,1,25,3500,,,3500,27000
+1997,Storm,GUM,Guam,1,,1400,20,5000,6420,200000
+1997,Storm,HKG,"Hong Kong",1,1,200,55,,255,
+1997,Storm,IND,India,1,25,,,,,
+1997,Storm,ITA,Italy,1,22,,,,,
+1997,Storm,JPN,Japan,2,7,67000,,,67000,100000
+1997,Storm,PRK,"Korea (the Democratic People's Republic of)",1,,,,,,10
+1997,Storm,MDG,Madagascar,2,174,520000,,80000,600000,50000
+1997,Storm,MYS,Malaysia,1,2,2115,,,2115,1000
+1997,Storm,MEX,Mexico,3,242,754555,200,50000,804755,447800
+1997,Storm,MOZ,Mozambique,1,,,,,,50
+1997,Storm,NLD,"Netherlands (the)",1,2,60,40,,100,
+1997,Storm,NZL,"New Zealand",1,3,140,,,140,
+1997,Storm,PAK,Pakistan,2,41,,,,,
+1997,Storm,PNG,"Papua New Guinea",1,32,,,7500,7500,
+1997,Storm,PRY,Paraguay,1,33,,77,,77,
+1997,Storm,PER,Peru,1,518,580000,730,,580730,12000
+1997,Storm,PHL,"Philippines (the)",3,49,366765,5,,366770,7500
+1997,Storm,PRT,Portugal,1,29,,,200,200,25000
+1997,Storm,ROU,Romania,1,12,,60,,60,
+1997,Storm,ESP,Spain,1,21,350,,,350,5000
+1997,Storm,TWN,"Taiwan (Province of China)",1,44,,78,,78,50000
+1997,Storm,THA,Thailand,2,198,50000,394,,50394,44500
+1997,Storm,TON,Tonga,1,,,,3000,3000,
+1997,Storm,UKR,Ukraine,1,11,,,,,34000
+1997,Storm,USA,"United States of America (the)",23,180,4670,222,,4892,2242000
+1997,Storm,URY,Uruguay,1,1,,,500,500,
+1997,Storm,VNM,"Viet Nam",3,3692,697225,907,383045,1081177,480000
+1998,Storm,ATG,"Antigua and Barbuda",1,2,,25,2000,2025,100000
+1998,Storm,ARG,Argentina,1,,4000,,,4000,
+1998,Storm,BGD,Bangladesh,5,321,229440,804,,230244,
+1998,Storm,BEL,Belgium,1,,,,,,500
+1998,Storm,BLZ,Belize,1,9,60000,,,60000,50
+1998,Storm,CAN,Canada,1,28,2000,,,2000,1500000
+1998,Storm,CHN,China,5,96,,1464,11000000,11001464,270200
+1998,Storm,CRI,"Costa Rica",1,8,15000,,1700,16700,91090
+1998,Storm,CUB,Cuba,1,6,147000,,,147000,2000000
+1998,Storm,DOM,"Dominican Republic (the)",1,347,855000,595,120000,975595,1981500
+1998,Storm,SLV,"El Salvador",1,475,84000,,,84000,388100
+1998,Storm,FRA,France,1,6,690,,,690,150000
+1998,Storm,DEU,Germany,1,3,,15,,15,150000
+1998,Storm,GLP,Guadeloupe,1,,,,,,5000
+1998,Storm,GTM,Guatemala,1,384,105700,,,105700,748000
+1998,Storm,HTI,Haiti,1,190,12000,29,,12029,180000
+1998,Storm,HND,Honduras,1,14600,2100000,12000,,2112000,3793600
+1998,Storm,IND,India,4,3471,4658000,3393,,4661393,479000
+1998,Storm,IRL,Ireland,1,2,,,,,50
+1998,Storm,JPN,Japan,5,41,49000,864,,49864,3335500
+1998,Storm,KOR,"Korea (the Republic of)",3,100,2000,3,2376,4379,28754
+1998,Storm,MEX,Mexico,4,255,5460,,,5460,1000
+1998,Storm,NLD,"Netherlands (the)",1,,,,,,100
+1998,Storm,NIC,Nicaragua,1,3332,868000,228,,868228,987700
+1998,Storm,PAK,Pakistan,1,12,,,,,
+1998,Storm,PAN,Panama,1,3,7500,,,7500,50
+1998,Storm,PHL,"Philippines (the)",4,594,7322133,866,,7322999,235437
+1998,Storm,PRI,"Puerto Rico",1,,,,,,1750000
+1998,Storm,RUS,"Russian Federation (the)",1,8,,160,,160,160000
+1998,Storm,KNA,"Saint Kitts and Nevis",1,5,10000,,,10000,400000
+1998,Storm,ZAF,"South Africa",1,18,,160,,160,165000
+1998,Storm,ESP,Spain,1,,,,,,1000
+1998,Storm,CHE,Switzerland,1,,,,,,1000
+1998,Storm,TWN,"Taiwan (Province of China)",2,13,400000,,,400000,129000
+1998,Storm,TON,Tonga,2,,3571,,,3571,
+1998,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",3,35,253000,,,253000,1365400
+1998,Storm,USA,"United States of America (the)",20,203,151547,495,1579,153621,10053450
+1998,Storm,VUT,Vanuatu,1,,2400,,,2400,
+1998,Storm,VNM,"Viet Nam",3,368,2481635,92,43510,2525237,108200
+1998,Storm,VIR,"Virgin Island (U.S.)",1,,,,,,100000
+1999,Storm,AIA,Anguilla,1,,150,,,150,50
+1999,Storm,ATG,"Antigua and Barbuda",2,2,4500,18,1439,5957,
+1999,Storm,AUS,Australia,4,7,10000,25,672,10697,2196300
+1999,Storm,BHS,"Bahamas (the)",1,1,,,,,450000
+1999,Storm,BGD,Bangladesh,6,128,1000,510,100000,101510,
+1999,Storm,BEL,Belgium,2,2,900,5,,905,50486
+1999,Storm,BIH,"Bosnia and Herzegovina",1,,1000,,90,1090,
+1999,Storm,BGR,Bulgaria,1,,,,850,850,
+1999,Storm,BDI,Burundi,1,,30810,,,30810,
+1999,Storm,CAN,Canada,2,7,4000,,200,4200,100
+1999,Storm,SPI,"Canary Is",1,,,,,,415000
+1999,Storm,CHN,China,9,496,1993800,3860,183950,2181610,829700
+1999,Storm,COL,Colombia,1,2,,,,,500
+1999,Storm,CUB,Cuba,1,4,228067,,26923,254990,
+1999,Storm,DNK,Denmark,1,7,,,,,2604939
+1999,Storm,DMA,Dominica,1,,400,,315,715,
+1999,Storm,FJI,Fiji,1,12,,,1772,1772,3500
+1999,Storm,FRA,France,3,99,3500000,31,,3500031,12000000
+1999,Storm,DEU,Germany,2,18,,,,,1750000
+1999,Storm,GRD,Grenada,1,,210,,,210,5500
+1999,Storm,GLP,Guadeloupe,1,4,400,49,450,899,
+1999,Storm,HKG,"Hong Kong",1,2,,493,,493,
+1999,Storm,HUN,Hungary,1,40,,,,,
+1999,Storm,IND,India,3,10378,13165696,4312,700000,13870008,2990000
+1999,Storm,IRL,Ireland,1,8,,,,,100000
+1999,Storm,JPN,Japan,1,26,20000,438,6900,27338,5000000
+1999,Storm,KOR,"Korea (the Republic of)",1,4,,,514,514,4000
+1999,Storm,LVA,Latvia,1,6,,,,,500
+1999,Storm,LTU,Lithuania,1,2,,,,,500
+1999,Storm,MTQ,Martinique,1,,400,,200,600,
+1999,Storm,MRT,Mauritania,1,1,,17,160,177,
+1999,Storm,MUS,Mauritius,1,,,1000,,1000,
+1999,Storm,MEX,Mexico,1,9,2000,,2000,4000,
+1999,Storm,NCL,"New Caledonia",1,,,,,,
+1999,Storm,NGA,Nigeria,1,100,,,,,
+1999,Storm,PAK,Pakistan,2,258,315040,221,221090,536351,10936
+1999,Storm,PHL,"Philippines (the)",8,100,1382143,56,5091,1387290,56487
+1999,Storm,POL,Poland,1,3,,,,,10000
+1999,Storm,PRI,"Puerto Rico",1,1,,,,,150000
+1999,Storm,RUS,"Russian Federation (the)",1,12,,,,,
+1999,Storm,KNA,"Saint Kitts and Nevis",1,,1080,,100,1180,41400
+1999,Storm,LCA,"Saint Lucia",1,,,,200,200,
+1999,Storm,VCT,"Saint Vincent and the Grenadines",1,,100,,,100,
+1999,Storm,SEN,Senegal,2,187,65853,,30000,95853,
+1999,Storm,SLE,"Sierra Leone",1,13,,3,,3,
+1999,Storm,ZAF,"South Africa",2,26,13000,480,5300,18780,25000
+1999,Storm,ESP,Spain,1,6,,,,,100000
+1999,Storm,SWE,Sweden,1,3,,,,,160000
+1999,Storm,CHE,Switzerland,1,12,,,,,1500000
+1999,Storm,TJK,Tajikistan,1,,,,1500,1500,200
+1999,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",2,11,200,,,200,101000
+1999,Storm,USA,"United States of America (the)",16,227,3050951,929,6990,3058870,12600500
+1999,Storm,URY,Uruguay,1,1,,,1000,1000,
+1999,Storm,VUT,Vanuatu,1,32,,,,,
+1999,Storm,VNM,"Viet Nam",1,10,,,,,
+1999,Storm,VIR,"Virgin Island (U.S.)",1,3,,,,,180000
+2000,Storm,DZA,Algeria,1,4,,10,,10,
+2000,Storm,ARG,Argentina,2,1,,,430,430,
+2000,Storm,AUS,Australia,3,1,1350,,,1350,150000
+2000,Storm,AUT,Austria,1,,,,,,20000
+2000,Storm,BGD,Bangladesh,7,99,72500,599,73500,146599,
+2000,Storm,BLZ,Belize,1,14,62000,570,,62570,277460
+2000,Storm,CAN,Canada,1,11,,140,700,840,13000
+2000,Storm,CHN,China,10,162,2464000,724,66665,2531389,260321
+2000,Storm,SLV,"El Salvador",1,1,100,,,100,
+2000,Storm,FRA,France,1,6,,7,200,207,
+2000,Storm,GIN,Guinea,1,4,,,,,
+2000,Storm,IND,India,2,,30000,,,30000,
+2000,Storm,IRN,"Iran (Islamic Republic of)",1,3,,,5500,5500,
+2000,Storm,IRL,Ireland,2,1,,,,,100000
+2000,Storm,ISR,Israel,1,3,410,,,410,2750
+2000,Storm,JPN,Japan,3,13,192900,141,,193041,2050000
+2000,Storm,JOR,Jordan,1,9,,200,,200,
+2000,Storm,PRK,"Korea (the Democratic People's Republic of)",1,46,480000,180,147000,627180,6000000
+2000,Storm,KOR,"Korea (the Republic of)",2,33,,,711,711,82300
+2000,Storm,MDG,Madagascar,2,153,1106208,1,,1106209,9000
+2000,Storm,MYS,Malaysia,1,,500,,,500,
+2000,Storm,MEX,Mexico,2,31,30300,,,30300,1000
+2000,Storm,MDA,"Moldova (the Republic of)",1,,2600000,,,2600000,31600
+2000,Storm,MNG,Mongolia,2,23,1071000,,,1071000,80000
+2000,Storm,MOZ,Mozambique,4,32,350,4,1050,1404,1000
+2000,Storm,NZL,"New Zealand",1,,,,,,
+2000,Storm,NIC,Nicaragua,2,2,2510,,,2510,1000
+2000,Storm,NGA,Nigeria,1,,,,1000,1000,
+2000,Storm,PHL,"Philippines (the)",6,394,6067076,355,120000,6187431,83464
+2000,Storm,PRT,Portugal,1,4,,10,60,70,
+2000,Storm,REU,RÈunion,1,2,,,600,600,
+2000,Storm,ROU,Romania,1,14,,,300,300,
+2000,Storm,RUS,"Russian Federation (the)",1,9,,,,,50
+2000,Storm,ZAF,"South Africa",1,1,,100,200,300,
+2000,Storm,ESP,Spain,2,14,,2,,2,
+2000,Storm,LKA,"Sri Lanka",1,5,375000,,,375000,
+2000,Storm,TWN,"Taiwan (Province of China)",2,103,,102,2000,2102,285000
+2000,Storm,THA,Thailand,1,2,41219,,,41219,
+2000,Storm,UGA,Uganda,2,,,5,10000,10005,
+2000,Storm,UKR,Ukraine,3,10,47400,710,,48110,120000
+2000,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",2,16,20100,4,,20104,1500000
+2000,Storm,USA,"United States of America (the)",11,48,19218,317,3585,23120,1855600
+2000,Storm,URY,Uruguay,1,,,,100,100,
+2000,Storm,VNM,"Viet Nam",7,23,2505,169,11860,14534,26035
+2001,Storm,ARG,Argentina,2,20,500,150,2000,2650,15000
+2001,Storm,AUS,Australia,3,2,180,27,,207,6600
+2001,Storm,BHS,"Bahamas (the)",1,,,,,,300000
+2001,Storm,BGD,Bangladesh,4,238,26000,2750,,28750,
+2001,Storm,BLZ,Belize,2,30,20000,,,20000,250000
+2001,Storm,BRA,Brazil,1,13,,,3400,3400,
+2001,Storm,BGR,Bulgaria,1,2,,,,,
+2001,Storm,CAN,Canada,1,11,,,30,30,
+2001,Storm,CYM,"Cayman Islands (the)",1,,,,,,60000
+2001,Storm,CAF,"Central African Republic",1,3,,,3000,3000,
+2001,Storm,CHL,Chile,1,2,2000,,400,2400,
+2001,Storm,CHN,China,10,344,20816148,86690,263000,21165838,3587000
+2001,Storm,COL,Colombia,1,5,,200,7500,7700,
+2001,Storm,COK,"Cook Islands (the)",1,,744,,,744,
+2001,Storm,CRI,"Costa Rica",1,,,,,,1000
+2001,Storm,CUB,Cuba,1,5,5900000,12,,5900012,100000
+2001,Storm,DMA,Dominica,1,3,175,,,175,
+2001,Storm,DOM,"Dominican Republic (the)",1,3,,,,,10
+2001,Storm,FJI,Fiji,1,1,,,,,
+2001,Storm,FRA,France,2,14,300,120,,420,
+2001,Storm,GEO,Georgia,1,,900,,,900,
+2001,Storm,DEU,Germany,1,6,,,,,300000
+2001,Storm,GTM,Guatemala,1,8,6435,11,,6446,100
+2001,Storm,HTI,Haiti,1,,,,,,20
+2001,Storm,HND,Honduras,1,21,61051,,25270,86321,5000
+2001,Storm,IND,India,3,99,25000,,2000,27000,
+2001,Storm,ITA,Italy,1,,,,,,175000
+2001,Storm,JAM,Jamaica,1,1,,,200,200,55487
+2001,Storm,JPN,Japan,4,22,9508,368,12,9888,1300000
+2001,Storm,KOR,"Korea (the Republic of)",1,11,,300,,300,290000
+2001,Storm,LSO,Lesotho,2,1,1000,1,1000,2001,
+2001,Storm,MEX,Mexico,5,5,5600,,800,6400,401000
+2001,Storm,MNG,Mongolia,1,16,175000,,,175000,
+2001,Storm,NIC,Nicaragua,1,16,24866,,,24866,1000
+2001,Storm,PAK,Pakistan,1,4,,,500,500,
+2001,Storm,PHL,"Philippines (the)",6,587,3349957,480,100000,3450437,99061
+2001,Storm,RUS,"Russian Federation (the)",2,8,12000,28,400,12428,17200
+2001,Storm,SHN,"Saint Helena, Ascension and Tristan da Cunha",1,,300,,,300,
+2001,Storm,ZAF,"South Africa",2,14,,40,600,640,
+2001,Storm,ESP,Spain,1,10,,,,,72000
+2001,Storm,SYR,"Syrian Arab Republic",1,27,,172,,172,
+2001,Storm,TWN,"Taiwan (Province of China)",5,195,650000,339,2000,652339,1047000
+2001,Storm,TJK,Tajikistan,1,,830,,,830,234
+2001,Storm,THA,Thailand,1,,150,,,150,
+2001,Storm,TON,Tonga,1,,16500,,,16500,51300
+2001,Storm,USA,"United States of America (the)",17,82,109404,251,71398,181053,6328800
+2001,Storm,VUT,Vanuatu,2,2,505,,295,800,
+2001,Storm,VNM,"Viet Nam",3,53,177450,89,23100,200639,83200
+2001,Storm,YEM,Yemen,2,30,,,,,
+2002,Storm,ALB,Albania,1,6,125000,,,125000,
+2002,Storm,ARG,Argentina,1,3,5000,,,5000,
+2002,Storm,AUS,Australia,3,,120,,9,129,
+2002,Storm,AUT,Austria,2,3,300,,,300,5000
+2002,Storm,BGD,Bangladesh,4,122,100000,400,1000,101400,
+2002,Storm,BRB,Barbados,1,,,,2000,2000,200
+2002,Storm,BEL,Belgium,1,5,,,,,5000
+2002,Storm,BOL,"Bolivia (Plurinational State of)",1,20,12085,,,12085,
+2002,Storm,CYM,"Cayman Islands (the)",2,,300,,,300,1500
+2002,Storm,CHN,China,6,108,107402700,394,,107403094,218000
+2002,Storm,CUB,Cuba,2,3,323970,,,323970,46000
+2002,Storm,CZE,"Czech Republic (the)",2,2,,,,,20000
+2002,Storm,DNK,Denmark,1,1,,,,,
+2002,Storm,SLV,"El Salvador",1,,500,,,500,
+2002,Storm,FRA,France,2,5,250,3,,253,1000
+2002,Storm,DEU,Germany,3,22,,19,,19,2050000
+2002,Storm,GRC,Greece,1,2,,12,,12,
+2002,Storm,GUM,Guam,2,1,10044,,5100,15144,130000
+2002,Storm,GTM,Guatemala,1,2,1500,,,1500,100
+2002,Storm,HTI,Haiti,1,4,250,,,250,
+2002,Storm,IND,India,4,144,10000,250,5000,15250,416
+2002,Storm,JAM,Jamaica,2,4,1500,,,1500,1030
+2002,Storm,JPN,Japan,5,7,100570,255,,100825,25500
+2002,Storm,JOR,Jordan,1,5,,25,,25,
+2002,Storm,PRK,"Korea (the Democratic People's Republic of)",1,3,7401,,,7401,500
+2002,Storm,KOR,"Korea (the Republic of)",3,204,88625,,,88625,4210000
+2002,Storm,LBN,Lebanon,1,,500,,,500,
+2002,Storm,MDG,Madagascar,3,23,521900,1200,5000,528100,181
+2002,Storm,MYS,Malaysia,1,2,155,,,155,
+2002,Storm,MUS,Mauritius,1,3,,50,1000,1050,50000
+2002,Storm,MEX,Mexico,3,16,509300,230,,509530,840000
+2002,Storm,FSM,"Micronesia (Federated States of)",2,47,1300,148,175,1623,500
+2002,Storm,MNG,Mongolia,2,3,665000,,,665000,
+2002,Storm,MOZ,Mozambique,1,3,,17,4000,4017,
+2002,Storm,NLD,"Netherlands (the)",1,4,,,,,300000
+2002,Storm,NIC,Nicaragua,1,2,300,,,300,1000
+2002,Storm,NER,"Niger (the)",1,4,1250,3,,1253,
+2002,Storm,MNP,"Northern Mariana Islands (the)",1,,,,300,300,
+2002,Storm,OMN,Oman,1,7,50,33,,83,50000
+2002,Storm,PAK,Pakistan,1,14,,12,,12,
+2002,Storm,PRY,Paraguay,1,,,,12500,12500,
+2002,Storm,PER,Peru,1,59,86682,,,86682,
+2002,Storm,PHL,"Philippines (the)",6,215,979128,66,3000,982194,13534
+2002,Storm,POL,Poland,2,9,,,,,150
+2002,Storm,REU,RÈunion,1,,,300,2800,3100,50000
+2002,Storm,RUS,"Russian Federation (the)",2,8,,,,,3000
+2002,Storm,VCT,"Saint Vincent and the Grenadines",1,4,,,,,11000
+2002,Storm,SYC,Seychelles,1,,6800,,,6800,
+2002,Storm,SLB,"Solomon Islands",1,,,10,1100,1110,
+2002,Storm,ZAF,"South Africa",4,23,101150,66,,101216,14041
+2002,Storm,SDN,"Sudan (the)",1,33,,,,,
+2002,Storm,SWE,Sweden,1,1,,,,,
+2002,Storm,CHE,Switzerland,1,1,,2,,2,
+2002,Storm,TWN,"Taiwan (Province of China)",2,8,,,,,50
+2002,Storm,THA,Thailand,2,1,27000,100,3104,30204,2000
+2002,Storm,TUR,Turkey,2,14,,,,,
+2002,Storm,UGA,Uganda,1,,,,100,100,
+2002,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",2,14,,,,,400050
+2002,Storm,USA,"United States of America (the)",15,339,18150,402,432,18984,6275000
+2002,Storm,URY,Uruguay,1,2,1300,,200,1500,25000
+2002,Storm,VNM,"Viet Nam",1,,1800,,,1800,100
+2003,Storm,DZA,Algeria,1,13,,,,,
+2003,Storm,ARG,Argentina,1,12,900,,,900,
+2003,Storm,AUS,Australia,5,1,2040,,30,2070,93000
+2003,Storm,BGD,Bangladesh,3,60,,420,,420,
+2003,Storm,BMU,Bermuda,1,4,,,,,300000
+2003,Storm,CAN,Canada,2,2,200,,,200,110000
+2003,Storm,CHN,China,5,61,9410000,1282,68925,9480207,537938
+2003,Storm,COM,"Comoros (the)",1,,,,300,300,
+2003,Storm,COD,"Congo (the Democratic Republic of the)",2,28,,2573,20000,22573,
+2003,Storm,CYP,Cyprus,1,,,30,,30,10000
+2003,Storm,DOM,"Dominican Republic (the)",1,8,10000,,,10000,
+2003,Storm,FJI,Fiji,1,17,30000,,,30000,30000
+2003,Storm,FRA,France,2,6,,70,,70,50
+2003,Storm,GMB,"Gambia (the)",1,3,8000,19,,8019,
+2003,Storm,DEU,Germany,2,15,,,,,300000
+2003,Storm,HTI,Haiti,1,26,,5,150,155,
+2003,Storm,HKG,"Hong Kong",2,4,3500,33,,3533,
+2003,Storm,HUN,Hungary,1,7,,,,,
+2003,Storm,IND,India,7,164,294905,4564,231845,531314,44000
+2003,Storm,JPN,Japan,2,21,2230,173,,2403,105000
+2003,Storm,KOR,"Korea (the Republic of)",1,130,65000,,15000,80000,4500000
+2003,Storm,MDG,Madagascar,3,89,114641,86,48023,162750,
+2003,Storm,MEX,Mexico,2,4,9000,,,9000,100000
+2003,Storm,FSM,"Micronesia (Federated States of)",1,,,,1000,1000,
+2003,Storm,MOZ,Mozambique,1,11,23000,10,,23010,
+2003,Storm,NCL,"New Caledonia",1,2,,100,1000,1100,40000
+2003,Storm,NZL,"New Zealand",1,2,,,,,3000
+2003,Storm,OMN,Oman,1,30,,,,,1000
+2003,Storm,PAK,Pakistan,1,51,,57,2500,2557,
+2003,Storm,PHL,"Philippines (the)",8,95,383037,21,83203,466261,35302
+2003,Storm,PRI,"Puerto Rico",1,,,,100,100,
+2003,Storm,RUS,"Russian Federation (the)",1,,,,,,
+2003,Storm,SLB,"Solomon Islands",2,,275,,150,425,
+2003,Storm,ZAF,"South Africa",1,,,,600,600,
+2003,Storm,CHE,Switzerland,1,,,7,,7,5000
+2003,Storm,TWN,"Taiwan (Province of China)",1,3,,,,,
+2003,Storm,THA,Thailand,1,,5000,,,5000,
+2003,Storm,USA,"United States of America (the)",14,172,227995,421,15231,243647,15153600
+2003,Storm,VNM,"Viet Nam",1,,,18,5000,5018,
+2003,Storm,ZWE,Zimbabwe,1,8,,,,,
+2004,Storm,ASM,"American Samoa",1,,20000,60,3000,23060,150000
+2004,Storm,AUS,Australia,3,3,645,,,645,60000
+2004,Storm,BHS,"Bahamas (the)",3,12,9000,,,9000,1550000
+2004,Storm,BGD,Bangladesh,4,239,1050,3150,14000,18200,
+2004,Storm,BRB,Barbados,1,1,,,880,880,5000
+2004,Storm,BRA,Brazil,1,4,150000,60,,150060,350000
+2004,Storm,BDI,Burundi,2,,,,15500,15500,
+2004,Storm,CAN,Canada,1,,,,,,
+2004,Storm,CYM,"Cayman Islands (the)",2,2,,,,,3435080
+2004,Storm,CHN,China,7,249,9230000,8353,553512,9791865,2217980
+2004,Storm,CUB,Cuba,2,4,205745,5,41500,247250,1200000
+2004,Storm,CYP,Cyprus,1,,,10,,10,
+2004,Storm,DOM,"Dominican Republic (the)",3,15,14250,9,,14259,297000
+2004,Storm,EGY,Egypt,1,13,,42,,42,
+2004,Storm,FJI,Fiji,1,16,5000,,,5000,4000
+2004,Storm,FRA,France,1,11,,,,,
+2004,Storm,GMB,"Gambia (the)",1,2,6025,112,,6137,
+2004,Storm,DEU,Germany,1,2,,,,,130000
+2004,Storm,GRC,Greece,2,,,,,,340000
+2004,Storm,GRD,Grenada,1,39,60000,,,60000,889000
+2004,Storm,GUM,Guam,2,1,300,,,300,1000
+2004,Storm,HTI,Haiti,2,2757,302926,2620,16548,322094,51000
+2004,Storm,IDN,Indonesia,2,4,3715,,,3715,
+2004,Storm,IRN,"Iran (Islamic Republic of)",1,,2500,,,2500,240
+2004,Storm,IRL,Ireland,1,,200,,,200,
+2004,Storm,JAM,Jamaica,2,16,350120,6,,350126,895000
+2004,Storm,JPN,Japan,9,287,329556,1483,,331039,15143500
+2004,Storm,KOR,"Korea (the Republic of)",4,14,,,2922,2922,821000
+2004,Storm,MDG,Madagascar,2,395,773000,979,258450,1032429,250000
+2004,Storm,MYS,Malaysia,2,1,41000,,,41000,
+2004,Storm,MEX,Mexico,1,20,,,,,
+2004,Storm,FSM,"Micronesia (Federated States of)",1,1,6000,8,,6008,
+2004,Storm,MMR,Myanmar,1,236,,,25000,25000,688
+2004,Storm,NIC,Nicaragua,1,,200,,,200,
+2004,Storm,NIU,Niue,1,1,200,2,500,702,40000
+2004,Storm,MNP,"Northern Mariana Islands (the)",1,3,200,,,200,
+2004,Storm,PHL,"Philippines (the)",8,1861,3232763,1315,7200,3241278,138867
+2004,Storm,PRI,"Puerto Rico",2,2,3500,,,3500,100000
+2004,Storm,ROU,Romania,3,12,2400,,,2400,
+2004,Storm,RUS,"Russian Federation (the)",3,9,6000,62,,6062,6000
+2004,Storm,LCA,"Saint Lucia",1,,,,,,500
+2004,Storm,VCT,"Saint Vincent and the Grenadines",1,,1000,4,,1004,5000
+2004,Storm,WSM,Samoa,1,1,,,,,
+2004,Storm,SEN,Senegal,1,2,,,1000,1000,
+2004,Storm,SVK,Slovakia,1,2,10300,24,,10324,383300
+2004,Storm,SYR,"Syrian Arab Republic",1,5,,180,,180,
+2004,Storm,TWN,"Taiwan (Province of China)",5,79,8765,108,,8873,407710
+2004,Storm,THA,Thailand,2,14,9000,,50,9050,
+2004,Storm,TON,Tonga,1,,,,,,
+2004,Storm,TTO,"Trinidad and Tobago",1,1,560,,,560,1000
+2004,Storm,TUR,Turkey,3,25,1500,136,,1636,
+2004,Storm,TCA,"Turks and Caicos Islands (the)",1,,200,,,200,
+2004,Storm,USA,"United States of America (the)",11,159,5078900,92,753,5079745,55164770
+2004,Storm,VUT,Vanuatu,1,2,54000,8,,54008,
+2004,Storm,VEN,"Venezuela (Bolivarian Republic of)",1,5,1645,5,80,1730,
+2004,Storm,VNM,"Viet Nam",2,70,500900,5,,500905,30000
+2004,Storm,VIR,"Virgin Island (U.S.)",1,,,,,,
+2005,Storm,AFG,Afghanistan,1,260,22656,,,22656,5000
+2005,Storm,ALB,Albania,1,2,400000,,,400000,
+2005,Storm,DZA,Algeria,1,10,,5,,5,
+2005,Storm,ASM,"American Samoa",1,,,,,,
+2005,Storm,ARG,Argentina,1,11,,52,200,252,
+2005,Storm,AUS,Australia,2,1,1200,,,1200,42000
+2005,Storm,BHS,"Bahamas (the)",1,1,1500,,,1500,
+2005,Storm,BGD,Bangladesh,7,177,12000,2106,21500,35606,
+2005,Storm,BLZ,Belize,2,3,,,,,
+2005,Storm,BIH,"Bosnia and Herzegovina",1,4,,,,,
+2005,Storm,BRA,Brazil,1,2,,4,340,344,
+2005,Storm,BGR,Bulgaria,1,,,,,,
+2005,Storm,CAN,Canada,1,,300,,,300,
+2005,Storm,SPI,"Canary Is",1,19,,,,,375000
+2005,Storm,CHL,Chile,1,45,112,,,112,
+2005,Storm,CHN,China,14,426,40767000,2831,13000,40782831,7161915
+2005,Storm,COL,Colombia,1,,3074,,,3074,
+2005,Storm,COD,"Congo (the Democratic Republic of the)",1,8,,3,5386,5389,
+2005,Storm,COK,"Cook Islands (the)",1,,600,8,,608,
+2005,Storm,CRI,"Costa Rica",1,1,1074,,,1074,20000
+2005,Storm,HRV,Croatia,1,2,,,,,
+2005,Storm,CUB,Cuba,2,20,2600000,,,2600000,2100000
+2005,Storm,CZE,"Czech Republic (the)",1,,,3,,3,
+2005,Storm,DNK,Denmark,1,4,,,,,1300000
+2005,Storm,DOM,"Dominican Republic (the)",1,9,1000,,,1000,
+2005,Storm,SLV,"El Salvador",2,69,72141,,,72141,355700
+2005,Storm,EST,Estonia,1,,100,,,100,130000
+2005,Storm,DEU,Germany,1,2,,2,,2,270000
+2005,Storm,GRD,Grenada,1,1,1650,,,1650,
+2005,Storm,GTM,Guatemala,1,1513,474928,386,,475314,988300
+2005,Storm,HTI,Haiti,5,71,27740,53,185,27978,50500
+2005,Storm,HND,Honduras,4,53,103869,,,103869,115500
+2005,Storm,HUN,Hungary,1,4,,,,,
+2005,Storm,IND,India,4,82,11000,90,57500,68590,
+2005,Storm,IRN,"Iran (Islamic Republic of)",1,,8000,,,8000,
+2005,Storm,IRL,Ireland,1,,,,,,
+2005,Storm,JAM,Jamaica,3,6,10396,,,10396,34500
+2005,Storm,JPN,Japan,3,135,271890,1154,,273044,1033000
+2005,Storm,KOR,"Korea (the Republic of)",3,11,1100,,,1100,165500
+2005,Storm,LVA,Latvia,2,,,,,,325000
+2005,Storm,LTU,Lithuania,1,,,,,,30000
+2005,Storm,MKD,"Macedonia (the former Yugoslav Republic of)",1,1,,3,,3,
+2005,Storm,MDG,Madagascar,1,78,,8,7977,7985,
+2005,Storm,MWI,Malawi,1,11,,8,,8,
+2005,Storm,MEX,Mexico,4,47,2669571,,300000,2969571,7910000
+2005,Storm,MAR,Morocco,1,1,,,,,50
+2005,Storm,NLD,"Netherlands (the)",1,,,1,,1,
+2005,Storm,NZL,"New Zealand",1,,100,,,100,10000
+2005,Storm,NIC,Nicaragua,2,7,7880,,5763,13643,
+2005,Storm,NOR,Norway,1,,,,,,130000
+2005,Storm,PAK,Pakistan,1,58,,,,,
+2005,Storm,PHL,"Philippines (the)",2,34,20011,,,20011,2000
+2005,Storm,POL,Poland,2,,,,,,
+2005,Storm,ROU,Romania,1,3,,,,,
+2005,Storm,RUS,"Russian Federation (the)",2,,,2,,2,
+2005,Storm,VCT,"Saint Vincent and the Grenadines",1,,530,,,530,
+2005,Storm,WSM,Samoa,1,9,,,,,
+2005,Storm,SCG,"Serbia Montenegro",1,,8750,,,8750,
+2005,Storm,SWZ,Swaziland,1,,890,,260,1150,
+2005,Storm,SWE,Sweden,1,7,,,,,2800000
+2005,Storm,TWN,"Taiwan (Province of China)",4,17,1500,139,,1639,239000
+2005,Storm,THA,Thailand,2,10,3500,,,3500,20246
+2005,Storm,TKL,Tokelau,1,,,1,25,26,
+2005,Storm,TTO,"Trinidad and Tobago",1,,,,,,
+2005,Storm,TUR,Turkey,1,2,,,,,
+2005,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",2,10,3000,,,3000,700000
+2005,Storm,USA,"United States of America (the)",8,1882,830165,8,132,830305,158230000
+2005,Storm,URY,Uruguay,1,7,,12,,12,
+2005,Storm,VNM,"Viet Nam",4,116,367632,28,,367660,250250
+2006,Storm,AFG,Afghanistan,2,71,,,,,
+2006,Storm,AUS,Australia,3,,2000,30,7000,9030,1182354
+2006,Storm,BGD,Bangladesh,5,154,14485,1264,2400,18149,
+2006,Storm,BDI,Burundi,1,,,5,1500,1505,
+2006,Storm,CHN,China,8,1500,55223000,6420,108400,55337820,7859000
+2006,Storm,COD,"Congo (the Democratic Republic of the)",1,3,75000,66,,75066,
+2006,Storm,CUB,Cuba,1,,260,8,,268,
+2006,Storm,FJI,Fiji,1,,168,,,168,
+2006,Storm,FRA,France,2,5,600,2,,602,
+2006,Storm,DEU,Germany,3,11,,300,,300,
+2006,Storm,GRC,Greece,1,3,600,,,600,
+2006,Storm,HTI,Haiti,1,5,15000,,,15000,
+2006,Storm,HUN,Hungary,1,5,,300,,300,10000
+2006,Storm,IND,India,2,190,,300,150000,150300,
+2006,Storm,ITA,Italy,1,1,,,,,
+2006,Storm,JPN,Japan,3,20,12087,715,99,12901,2500000
+2006,Storm,KGZ,Kyrgyzstan,1,4,9075,,,9075,
+2006,Storm,MDG,Madagascar,2,4,6112,,404,6516,
+2006,Storm,MEX,Mexico,3,15,270700,,,270700,2700
+2006,Storm,MMR,Myanmar,1,34,60075,31,,60106,
+2006,Storm,PHL,"Philippines (the)",10,1805,7819149,2659,,7821808,330921
+2006,Storm,SWZ,Swaziland,1,1,6535,,,6535,
+2006,Storm,CHE,Switzerland,1,1,,,,,
+2006,Storm,TWN,"Taiwan (Province of China)",2,3,800,,,800,
+2006,Storm,TLS,Timor-Leste,1,,8730,,,8730,
+2006,Storm,USA,"United States of America (the)",12,93,5405,258,,5663,4727860
+2006,Storm,VNM,"Viet Nam",6,401,2944720,1890,350680,3297290,1090000
+2007,Storm,AUS,Australia,1,2,730,,90,820,100000
+2007,Storm,AUT,Austria,1,,,,,,400000
+2007,Storm,BHS,"Bahamas (the)",1,1,7000,,,7000,
+2007,Storm,BGD,Bangladesh,2,4275,8923259,55282,225,8978766,2300000
+2007,Storm,BLR,Belarus,1,,,,,,10000
+2007,Storm,BEL,Belgium,1,2,,2,,2,450000
+2007,Storm,BLZ,Belize,1,,20000,,,20000,14847
+2007,Storm,CAN,Canada,2,6,,,,,
+2007,Storm,TCD,Chad,1,14,,145,,145,
+2007,Storm,CHN,China,6,95,9000000,299,4855,9005154,2639543
+2007,Storm,CUB,Cuba,2,1,192488,,,192488,500000
+2007,Storm,CZE,"Czech Republic (the)",1,4,,,,,150000
+2007,Storm,DNK,Denmark,1,,,,,,100000
+2007,Storm,DMA,Dominica,1,2,7500,30,,7530,20000
+2007,Storm,DOM,"Dominican Republic (the)",3,163,142933,,,142933,162700
+2007,Storm,SLV,"El Salvador",1,,2800,,,2800,
+2007,Storm,FJI,Fiji,2,1,69,,,69,652
+2007,Storm,FRA,France,3,5,900,,,900,250000
+2007,Storm,DEU,Germany,2,18,,130,,130,5500000
+2007,Storm,GLP,Guadeloupe,1,,,,,,300000
+2007,Storm,GTM,Guatemala,1,,3905,,,3905,
+2007,Storm,HTI,Haiti,3,102,114680,141,260,115081,
+2007,Storm,HND,Honduras,1,1,19500,,,19500,6579
+2007,Storm,IND,India,1,,,,,,
+2007,Storm,IRN,"Iran (Islamic Republic of)",1,12,185000,9,,185009,
+2007,Storm,JAM,Jamaica,2,5,32000,,1188,33188,300000
+2007,Storm,JPN,Japan,3,13,40900,94,,40994,1060000
+2007,Storm,PRK,"Korea (the Democratic People's Republic of)",1,,,,1649,1649,
+2007,Storm,KOR,"Korea (the Republic of)",1,20,,2,600,602,70000
+2007,Storm,LBR,Liberia,1,,,,3500,3500,
+2007,Storm,MDG,Madagascar,3,84,210495,16,12000,222511,240000
+2007,Storm,MTQ,Martinique,1,1,,6,,6,300000
+2007,Storm,MUS,Mauritius,1,2,,,,,
+2007,Storm,MEX,Mexico,4,20,173000,,30000,203000,600000
+2007,Storm,MOZ,Mozambique,1,10,162700,70,,162770,
+2007,Storm,NLD,"Netherlands (the)",1,7,,,,,550000
+2007,Storm,NZL,"New Zealand",1,,300,,,300,
+2007,Storm,NIC,Nicaragua,1,188,188726,,,188726,
+2007,Storm,OMN,Oman,1,76,20000,,,20000,3900000
+2007,Storm,PAK,Pakistan,1,242,1650000,,,1650000,1620000
+2007,Storm,PNG,"Papua New Guinea",1,172,162140,,,162140,
+2007,Storm,PHL,"Philippines (the)",9,89,1922285,24,,1922309,10215
+2007,Storm,POL,Poland,2,19,,,,,100000
+2007,Storm,PRI,"Puerto Rico",1,1,,,,,
+2007,Storm,REU,RÈunion,1,2,,90,,90,
+2007,Storm,RUS,"Russian Federation (the)",1,,,,,,
+2007,Storm,LCA,"Saint Lucia",1,1,,,,,40000
+2007,Storm,SVN,Slovenia,2,6,,,1050,1050,392000
+2007,Storm,ESP,Spain,1,1,,,,,
+2007,Storm,CHE,Switzerland,2,,,,,,100000
+2007,Storm,TWN,"Taiwan (Province of China)",2,18,1000,79,1800,2879,60000
+2007,Storm,UKR,Ukraine,2,,6268,17,1267,7552,100000
+2007,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,13,,,,,1200000
+2007,Storm,USA,"United States of America (the)",13,245,7700,417,200,8317,5820000
+2007,Storm,VNM,"Viet Nam",1,96,637755,150,47525,685430,191000
+2007,Storm,ZWE,Zimbabwe,1,,,,,,1200
+2008,Storm,ATG,"Antigua and Barbuda",1,,25800,,,25800,
+2008,Storm,AUS,Australia,1,1,12000,,,12000,450000
+2008,Storm,AUT,Austria,1,4,,,,,500000
+2008,Storm,BHS,"Bahamas (the)",2,,3000,,,3000,
+2008,Storm,BGD,Bangladesh,2,27,,400,,400,
+2008,Storm,BEL,Belgium,1,,,,,,
+2008,Storm,BLZ,Belize,1,7,10000,,,10000,
+2008,Storm,BOL,"Bolivia (Plurinational State of)",1,,6655,,,6655,
+2008,Storm,BRA,Brazil,1,3,,,1600,1600,
+2008,Storm,CYM,"Cayman Islands (the)",2,,,,,,
+2008,Storm,CHN,China,9,66,1649000,106,,1649106,2015000
+2008,Storm,COD,"Congo (the Democratic Republic of the)",1,10,,8,,8,
+2008,Storm,CRI,"Costa Rica",1,4,55000,,,55000,
+2008,Storm,CUB,Cuba,4,7,499445,19,,499464,3572000
+2008,Storm,CZE,"Czech Republic (the)",1,2,,,,,50000
+2008,Storm,DOM,"Dominican Republic (the)",3,13,17000,2,,17002,
+2008,Storm,FJI,Fiji,1,7,,,,,30000
+2008,Storm,FRA,France,3,5,2100,6,600,2706,80000
+2008,Storm,GMB,"Gambia (the)",1,,300,,,300,
+2008,Storm,DEU,Germany,2,8,,,,,2700000
+2008,Storm,GTM,Guatemala,1,17,,,,,
+2008,Storm,HTI,Haiti,4,698,246160,86,30,246276,
+2008,Storm,HND,Honduras,1,,,,,,
+2008,Storm,HKG,"Hong Kong",3,2,,207,,207,380
+2008,Storm,IND,India,1,111,,50,,50,25000
+2008,Storm,IRN,"Iran (Islamic Republic of)",1,28,,,,,
+2008,Storm,JAM,Jamaica,2,13,4000,,,4000,66198
+2008,Storm,LSO,Lesotho,1,,4500,,,4500,
+2008,Storm,MDG,Madagascar,3,105,338248,580,194338,533166,60000
+2008,Storm,MEX,Mexico,1,2,500000,,,500000,75000
+2008,Storm,MNG,Mongolia,1,52,,,,,
+2008,Storm,MOZ,Mozambique,1,9,165000,13,55000,220013,20000
+2008,Storm,MMR,Myanmar,1,138366,2400000,20000,,2420000,4000000
+2008,Storm,NLD,"Netherlands (the)",1,,,,,,
+2008,Storm,NIC,Nicaragua,1,13,25000,,,25000,
+2008,Storm,NOR,Norway,1,,,100,,100,
+2008,Storm,PRY,Paraguay,1,,47655,,,47655,
+2008,Storm,PHL,"Philippines (the)",11,819,6846388,946,4645,6851979,441625
+2008,Storm,POL,Poland,1,2,1050,10,,1060,50000
+2008,Storm,ROU,Romania,1,,90,,,90,
+2008,Storm,ZAF,"South Africa",1,5,,76,3500,3576,
+2008,Storm,LKA,"Sri Lanka",1,9,50000,,,50000,
+2008,Storm,TWN,"Taiwan (Province of China)",5,54,,88,,88,142400
+2008,Storm,TZA,"Tanzania, United Republic of",2,,670,7,,677,
+2008,Storm,THA,Thailand,2,,,,1000,1000,
+2008,Storm,TCA,"Turks and Caicos Islands (the)",3,4,1500,,,1500,500000
+2008,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,,,,,,
+2008,Storm,USA,"United States of America (the)",14,258,2300550,597,,2301147,45760000
+2008,Storm,VNM,"Viet Nam",5,254,143830,159,12660,156649,190500
+2009,Storm,ARG,Argentina,1,10,,24,,24,
+2009,Storm,AUS,Australia,2,1,15400,,,15400,60000
+2009,Storm,AUT,Austria,1,,,,,,500000
+2009,Storm,BGD,Bangladesh,2,197,3947363,7187,,3954550,270000
+2009,Storm,BEN,Benin,1,,800,,,800,
+2009,Storm,BTN,Bhutan,1,12,,,,,
+2009,Storm,BWA,Botswana,1,,400,,,400,
+2009,Storm,BRA,Brazil,1,4,1850,64,450,2364,
+2009,Storm,KHM,Cambodia,2,19,178000,91,,178091,
+2009,Storm,CAN,Canada,2,2,,3,,3,500000
+2009,Storm,CAF,"Central African Republic",2,3,9137,,3835,12972,
+2009,Storm,CHN,China,10,169,23197799,557,98450,23296806,3601452
+2009,Storm,CZE,"Czech Republic (the)",1,2,,12,,12,
+2009,Storm,SLV,"El Salvador",1,275,75000,,15000,90000,939000
+2009,Storm,FJI,Fiji,1,2,3845,,,3845,13300
+2009,Storm,FRA,France,1,11,,,,,3200000
+2009,Storm,GAB,Gabon,1,,,,800,800,
+2009,Storm,GMB,"Gambia (the)",1,,2350,,,2350,
+2009,Storm,DEU,Germany,1,1,,,,,50000
+2009,Storm,HKG,"Hong Kong",1,,300,50,,350,
+2009,Storm,IND,India,6,218,5105000,85,4000,5109085,300000
+2009,Storm,ITA,Italy,1,3,,,,,
+2009,Storm,JPN,Japan,2,16,7000,119,,7119,1000000
+2009,Storm,LAO,"Lao People's Democratic Republic (the)",1,16,128796,91,,128887,100000
+2009,Storm,MDG,Madagascar,3,27,122687,10,8102,130799,5000
+2009,Storm,MEX,Mexico,2,4,112000,,,112000,40000
+2009,Storm,MOZ,Mozambique,1,,600,3,6500,7103,3000
+2009,Storm,NIC,Nicaragua,1,,19897,,,19897,
+2009,Storm,PRY,Paraguay,1,,700,,,700,
+2009,Storm,PHL,"Philippines (the)",14,1242,12220696,867,100,12221663,932703
+2009,Storm,POL,Poland,1,8,,82,,82,
+2009,Storm,ZAF,"South Africa",2,19,,,,,15000
+2009,Storm,ESP,Spain,1,14,,,,,1900000
+2009,Storm,CHE,Switzerland,1,,,,,,1000000
+2009,Storm,TWN,"Taiwan (Province of China)",1,630,2307477,46,,2307523,250000
+2009,Storm,TZA,"Tanzania, United Republic of",1,,605,,,605,
+2009,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,2,180,,,180,
+2009,Storm,USA,"United States of America (the)",10,74,750,158,,908,10390000
+2009,Storm,VNM,"Viet Nam",3,306,2867820,1005,108635,2977460,1065200
+2010,Storm,ATG,"Antigua and Barbuda",1,,5000,,,5000,12600
+2010,Storm,AUS,Australia,3,1,,,,,2720000
+2010,Storm,BGD,Bangladesh,3,26,256910,250,,257160,
+2010,Storm,BRB,Barbados,1,,2500,,,2500,
+2010,Storm,BEL,Belgium,2,1,,,,,160000
+2010,Storm,BLZ,Belize,1,,,,,,
+2010,Storm,BDI,Burundi,1,9,,,1500,1500,
+2010,Storm,CAN,Canada,1,,,,,,
+2010,Storm,CHN,China,6,139,2880000,1290,256000,3137290,871036
+2010,Storm,COK,"Cook Islands (the)",1,,2194,8,,2202,
+2010,Storm,CRI,"Costa Rica",1,,,,,,
+2010,Storm,DNK,Denmark,1,,,,,,
+2010,Storm,DOM,"Dominican Republic (the)",1,,12000,,,12000,
+2010,Storm,EGY,Egypt,1,31,,40,,40,
+2010,Storm,SLV,"El Salvador",3,17,9217,3,2800,12020,20000
+2010,Storm,FJI,Fiji,1,2,39101,,,39101,39427
+2010,Storm,FRA,France,2,53,500000,79,,500079,4230000
+2010,Storm,PYF,"French Polynesia",1,1,3400,11,,3411,11000
+2010,Storm,GAB,Gabon,2,,3530,,,3530,
+2010,Storm,DEU,Germany,2,4,,,,,1000000
+2010,Storm,GTM,Guatemala,3,174,399988,154,,400142,650000
+2010,Storm,HTI,Haiti,2,27,78075,67,,78142,
+2010,Storm,HND,Honduras,2,22,16673,4,7998,24675,90000
+2010,Storm,HKG,"Hong Kong",1,1,15000,,,15000,
+2010,Storm,IND,India,7,287,,80,507000,507080,
+2010,Storm,ITA,Italy,1,3,,5,,5,872000
+2010,Storm,JAM,Jamaica,1,15,2480,26,,2506,150000
+2010,Storm,PRK,"Korea (the Democratic People's Republic of)",1,20,40000,,,40000,
+2010,Storm,KOR,"Korea (the Republic of)",1,12,41500,,,41500,
+2010,Storm,LUX,Luxembourg,1,,,,,,31000
+2010,Storm,MDG,Madagascar,1,120,192000,132,,192132,
+2010,Storm,MEX,Mexico,4,43,555075,,,555075,5900000
+2010,Storm,MMR,Myanmar,1,45,260000,49,,260049,57000
+2010,Storm,NLD,"Netherlands (the)",1,,,,,,28000
+2010,Storm,NIC,Nicaragua,2,5,,,,,
+2010,Storm,OMN,Oman,1,16,,,,,1000000
+2010,Storm,PAK,Pakistan,1,23,4000,,,4000,80000
+2010,Storm,PHL,"Philippines (the)",3,212,2595412,133,,2595545,284420
+2010,Storm,PRT,Portugal,1,3,,,,,270000
+2010,Storm,LCA,"Saint Lucia",1,14,181000,,,181000,500
+2010,Storm,VCT,"Saint Vincent and the Grenadines",1,,6000,,100,6100,25000
+2010,Storm,SLB,"Solomon Islands",1,,,,590,590,
+2010,Storm,ZAF,"South Africa",1,40,6000,,,6000,
+2010,Storm,ESP,Spain,1,3,,,,,340000
+2010,Storm,CHE,Switzerland,1,,,,,,14000
+2010,Storm,TWN,"Taiwan (Province of China)",2,34,,100,,100,73100
+2010,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,,,,,,500
+2010,Storm,USA,"United States of America (the)",12,118,10700,241,,10941,9150000
+2010,Storm,VEN,"Venezuela (Bolivarian Republic of)",1,8,,,,,
+2010,Storm,VNM,"Viet Nam",3,35,32960,20,1620,34600,44500
+2011,Storm,AFG,Afghanistan,1,21,,5,,5,
+2011,Storm,AUS,Australia,1,1,7300,,,7300,2500000
+2011,Storm,BHS,"Bahamas (the)",1,,10000,,,10000,40000
+2011,Storm,BGD,Bangladesh,1,13,,121,,121,
+2011,Storm,BEL,Belgium,1,5,,71,,71,99000
+2011,Storm,BDI,Burundi,1,12,,50,,50,
+2011,Storm,CAN,Canada,2,2,,20,,20,
+2011,Storm,CAF,"Central African Republic",1,1,1830,1,,1831,
+2011,Storm,CHN,China,5,44,26649800,150,,26649950,716585
+2011,Storm,DMA,Dominica,1,,144,,96,240,
+2011,Storm,DOM,"Dominican Republic (the)",2,7,44000,,,44000,30000
+2011,Storm,FRA,France,1,,,,,,
+2011,Storm,GTM,Guatemala,1,5,,,,,
+2011,Storm,HTI,Haiti,2,3,2500,4,540,3044,
+2011,Storm,IND,India,3,106,,50,250000,250050,375625
+2011,Storm,JPN,Japan,3,86,1300,363,,1663,2520000
+2011,Storm,PRK,"Korea (the Democratic People's Republic of)",1,10,5612,887,,6499,
+2011,Storm,MDG,Madagascar,1,35,89297,73,25845,115215,
+2011,Storm,MTQ,Martinique,1,1,,,,,
+2011,Storm,MEX,Mexico,5,43,550450,,,550450,97700
+2011,Storm,MOZ,Mozambique,1,12,,,,,
+2011,Storm,NGA,Nigeria,1,11,,12,,12,
+2011,Storm,NOR,Norway,1,4,500,,,500,
+2011,Storm,OMN,Oman,1,14,,200,,200,
+2011,Storm,PNG,"Papua New Guinea",1,,,,,,
+2011,Storm,PRY,Paraguay,1,,,,2000,2000,
+2011,Storm,PER,Peru,1,16,,,,,
+2011,Storm,PHL,"Philippines (the)",12,1782,9462385,6291,,9468676,527238
+2011,Storm,PRI,"Puerto Rico",2,1,1500,,771,2271,500000
+2011,Storm,RUS,"Russian Federation (the)",1,1,,14,,14,3000
+2011,Storm,SLB,"Solomon Islands",1,,,,,,
+2011,Storm,ZAF,"South Africa",2,6,2606,217,3500,6323,10000
+2011,Storm,LKA,"Sri Lanka",1,22,35000,41,,35041,
+2011,Storm,SDN,"Sudan (the)",1,20,,30,,30,
+2011,Storm,CHE,Switzerland,1,,,3,,3,
+2011,Storm,THA,Thailand,1,18,1000000,,,1000000,
+2011,Storm,TON,Tonga,1,,,,,,3000
+2011,Storm,UGA,Uganda,1,23,,47,,47,
+2011,Storm,USA,"United States of America (the)",14,762,370600,3593,15000,389193,43450000
+2011,Storm,VUT,Vanuatu,2,,32000,,,32000,
+2011,Storm,VNM,"Viet Nam",2,16,,63,,63,
+2012,Storm,ARG,Argentina,2,19,7500,30,2000,9530,10000
+2012,Storm,BHS,"Bahamas (the)",1,1,,,,,
+2012,Storm,BGD,Bangladesh,2,133,129375,304,55000,184679,
+2012,Storm,CAN,Canada,2,,,,,,1050000
+2012,Storm,CAF,"Central African Republic",2,,,23,3870,3893,
+2012,Storm,CHN,China,8,75,10492630,7,48540,10541177,3216000
+2012,Storm,CUB,Cuba,2,12,45496,,162605,208101,
+2012,Storm,DOM,"Dominican Republic (the)",2,8,42515,,,42515,30000
+2012,Storm,FJI,Fiji,1,2,8400,,,8400,8400
+2012,Storm,GEO,Georgia,1,,,18,6000,6018,91000
+2012,Storm,HTI,Haiti,2,88,176500,27,33330,209857,254000
+2012,Storm,IND,India,1,40,70000,,,70000,
+2012,Storm,IDN,Indonesia,2,21,10000,60,490,10550,1000
+2012,Storm,JAM,Jamaica,1,1,215850,,,215850,16542
+2012,Storm,JPN,Japan,6,143,51551,2602,,54153,302400
+2012,Storm,PRK,"Korea (the Democratic People's Republic of)",1,59,10960,1,33500,44461,
+2012,Storm,KOR,"Korea (the Republic of)",3,22,3120,,,3120,799000
+2012,Storm,MDG,Madagascar,3,112,335300,299,,335599,100000
+2012,Storm,MWI,Malawi,1,,6000,,,6000,
+2012,Storm,MEX,Mexico,2,19,87000,,,87000,855000
+2012,Storm,MOZ,Mozambique,3,33,109945,13,,109958,
+2012,Storm,NZL,"New Zealand",1,3,450,7,,457,9100
+2012,Storm,NGA,Nigeria,1,15,15000,,,15000,1000
+2012,Storm,PRY,Paraguay,1,5,25000,100,,25100,2000
+2012,Storm,PHL,"Philippines (the)",9,2039,7557756,2724,,7560480,918137
+2012,Storm,POL,Poland,1,1,300,10,,310,5900
+2012,Storm,PRI,"Puerto Rico",1,,,,,,
+2012,Storm,WSM,Samoa,1,12,12703,,,12703,133000
+2012,Storm,ZAF,"South Africa",1,,1350,,,1350,
+2012,Storm,LKA,"Sri Lanka",1,,,,69000,69000,57000
+2012,Storm,TWN,"Taiwan (Province of China)",2,14,,,,,35300
+2012,Storm,USA,"United States of America (the)",19,190,89300,437,267,90004,77495000
+2012,Storm,VNM,"Viet Nam",3,38,59320,107,279545,338972,342800
+2012,Storm,WLF,"Wallis and Futuna",1,,1250,2,,1252,
+2013,Storm,ARG,Argentina,1,4,,12,,12,
+2013,Storm,ARM,Armenia,1,,64000,,,64000,60000
+2013,Storm,AUS,Australia,1,6,7500,,,7500,2000000
+2013,Storm,BGD,Bangladesh,3,50,1531754,453,,1532207,20000
+2013,Storm,BEL,Belgium,2,,,,,,
+2013,Storm,BRA,Brazil,1,2,13800,64,,13864,90000
+2013,Storm,CAN,Canada,1,,,,,,1410000
+2013,Storm,CAF,"Central African Republic",1,,8710,34,,8744,
+2013,Storm,CHN,China,15,265,11295100,474,50000,11345574,10787000
+2013,Storm,DNK,Denmark,2,2,,,,,
+2013,Storm,FRA,France,2,2,,,,,
+2013,Storm,GEO,Georgia,1,,1750,,,1750,
+2013,Storm,DEU,Germany,3,7,,2,,2,4800000
+2013,Storm,HUN,Hungary,1,,14000,,,14000,
+2013,Storm,IND,India,5,106,13230000,4,,13230004,895471
+2013,Storm,ISR,Israel,1,4,2000000,3000,,2003000,
+2013,Storm,JPN,Japan,7,57,59190,1899,,61089,14200
+2013,Storm,MDG,Madagascar,2,51,44752,127,,44879,25000
+2013,Storm,MEX,Mexico,4,210,172000,,,172000,5700000
+2013,Storm,NLD,"Netherlands (the)",3,2,,,,,10000
+2013,Storm,NZL,"New Zealand",1,,,,,,20000
+2013,Storm,PLW,Palau,1,,,,,,
+2013,Storm,PSE,"Palestine, State of",1,1,49971,100,,50071,
+2013,Storm,PRY,Paraguay,1,,50000,,,50000,25000
+2013,Storm,PHL,"Philippines (the)",8,7415,17915713,28858,,17944571,10136563
+2013,Storm,POL,Poland,1,4,,53,,53,
+2013,Storm,PRT,Portugal,2,1,3900,21,46,3967,
+2013,Storm,SYC,Seychelles,1,,3000,,,3000,9300
+2013,Storm,SOM,Somalia,1,162,142380,,,142380,
+2013,Storm,ZAF,"South Africa",1,3,2870,,,2870,
+2013,Storm,ESP,Spain,1,,,,,,
+2013,Storm,LKA,"Sri Lanka",1,7,3478,,3861,7339,
+2013,Storm,SWE,Sweden,1,7,,,,,
+2013,Storm,CHE,Switzerland,2,,,84,,84,250000
+2013,Storm,TWN,"Taiwan (Province of China)",3,5,,54,,54,61600
+2013,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",3,11,4200,,,4200,
+2013,Storm,USA,"United States of America (the)",15,140,175889,985,600,177474,14600000
+2013,Storm,VNM,"Viet Nam",4,79,1962485,584,375,1963444,1474230
+2014,Storm,AFG,Afghanistan,1,63,,,,,
+2014,Storm,AUS,Australia,1,,52527,12,,52539,1000000
+2014,Storm,BGD,Bangladesh,2,20,1250,12,4000,5262,
+2014,Storm,BEL,Belgium,1,,,,,,
+2014,Storm,BMU,Bermuda,1,,,,,,
+2014,Storm,BGR,Bulgaria,1,1,,40,,40,545000
+2014,Storm,CHL,Chile,1,,,7,2000,2007,
+2014,Storm,CHN,China,16,329,11145250,189,64255,11209694,10069973
+2014,Storm,COL,Colombia,1,11,,18,,18,
+2014,Storm,COM,"Comoros (the)",1,,9511,,,9511,
+2014,Storm,FRA,France,4,8,,,,,182000
+2014,Storm,DEU,Germany,2,8,,1,,1,400000
+2014,Storm,GTM,Guatemala,1,5,100000,,,100000,
+2014,Storm,IND,India,5,111,931480,84,,931564,7000000
+2014,Storm,IRL,Ireland,1,1,,,,,
+2014,Storm,ITA,Italy,1,5,,,,,250000
+2014,Storm,JPN,Japan,9,129,36465,4817,,41282,6541000
+2014,Storm,KOR,"Korea (the Republic of)",2,24,,101,,101,11000
+2014,Storm,KGZ,Kyrgyzstan,1,,,,,,
+2014,Storm,LSO,Lesotho,1,,,,2600,2600,
+2014,Storm,MDG,Madagascar,1,17,,,1736,1736,
+2014,Storm,MEX,Mexico,6,19,144000,135,,144135,2539500
+2014,Storm,MAR,Morocco,2,49,117000,,,117000,300000
+2014,Storm,NPL,Nepal,1,83,,175,,175,
+2014,Storm,PAK,Pakistan,1,16,,82,,82,
+2014,Storm,PNG,"Papua New Guinea",1,,12346,,,12346,
+2014,Storm,PHL,"Philippines (the)",9,326,13066714,2269,,13068983,1062899
+2014,Storm,PRT,Portugal,2,1,50,4,,54,
+2014,Storm,REU,RÈunion,1,1,250,15,,265,85000
+2014,Storm,ESP,Spain,1,3,,,,,
+2014,Storm,CHE,Switzerland,1,2,,,,,
+2014,Storm,TWN,"Taiwan (Province of China)",2,,,,,,420000
+2014,Storm,THA,Thailand,1,,,,2000,2000,
+2014,Storm,TON,Tonga,1,1,4000,14,,4014,31000
+2014,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,5,18000,,,18000,100000
+2014,Storm,USA,"United States of America (the)",14,139,1134,68,30,1232,10366000
+2014,Storm,VUT,Vanuatu,1,12,20000,6,,20006,
+2014,Storm,VNM,"Viet Nam",3,38,48075,,,48075,10700
+2015,Storm,ARG,Argentina,1,8,4500,,,4500,17200
+2015,Storm,AUS,Australia,3,4,5890,,48,5938,1653000
+2015,Storm,BHS,"Bahamas (the)",1,35,6710,,,6710,100000
+2015,Storm,BGD,Bangladesh,3,98,3060000,300,,3060300,
+2015,Storm,CPV,"Cabo Verde",1,9,,,,,1100
+2015,Storm,CAF,"Central African Republic",1,1,1109,7,,1116,
+2015,Storm,CHL,Chile,1,6,934,4,,938,
+2015,Storm,CHN,China,9,58,2029000,,29700,2058700,7435690
+2015,Storm,DMA,Dominica,1,30,28000,20,574,28594,482810
+2015,Storm,DOM,"Dominican Republic (the)",1,,33,,2100,2133,
+2015,Storm,SLV,"El Salvador",1,12,20000,,,20000,
+2015,Storm,HTI,Haiti,1,5,,3,1966,1969,
+2015,Storm,IND,India,4,92,135000,100,,135100,161000
+2015,Storm,IRL,Ireland,1,1,,,,,
+2015,Storm,ISR,Israel,1,,,200,,200,
+2015,Storm,JPN,Japan,5,11,60828,205,,61033,223200
+2015,Storm,KIR,Kiribati,1,,2400,,,2400,
+2015,Storm,LBN,Lebanon,3,5,1000942,750,,1001692,
+2015,Storm,MDG,Madagascar,2,95,,37,182400,182437,46000
+2015,Storm,MWI,Malawi,1,5,,,350,350,
+2015,Storm,MEX,Mexico,3,43,13092,286,750,14128,410000
+2015,Storm,FSM,"Micronesia (Federated States of)",1,5,6000,,,6000,
+2015,Storm,MMR,Myanmar,1,3,,,,,
+2015,Storm,MNP,"Northern Mariana Islands (the)",1,,350,10,,360,
+2015,Storm,PSE,"Palestine, State of",2,4,31050,,,31050,
+2015,Storm,PRY,Paraguay,1,2,10000,25,,10025,
+2015,Storm,PHL,"Philippines (the)",10,148,3602774,131,3300,3606205,1881367
+2015,Storm,SLB,"Solomon Islands",2,9,30000,,400,30400,
+2015,Storm,SOM,Somalia,2,,,,,,
+2015,Storm,SYR,"Syrian Arab Republic",2,13,,3500,,3500,
+2015,Storm,TWN,"Taiwan (Province of China)",3,9,,762,,762,26000
+2015,Storm,TZA,"Tanzania, United Republic of",1,47,5000,112,,5112,
+2015,Storm,TUV,Tuvalu,1,,3000,,,3000,
+2015,Storm,GBR,"United Kingdom of Great Britain and Northern Irela",1,3,15600,,,15600,1100000
+2015,Storm,USA,"United States of America (the)",12,175,300,72,,372,10825000
+2015,Storm,VUT,Vanuatu,1,11,166000,,,166000,449400
+2015,Storm,VNM,"Viet Nam",1,7,,,115,115,
+2015,Storm,YEM,Yemen,2,32,125000,65,,125065,100000
+2015,Storm,ZWE,Zimbabwe,1,10,,,475,475,
